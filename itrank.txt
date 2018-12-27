@@ -4,3 +4,5 @@ Microsoft
 Google
 IBM
 Oracle
+AWS
+SAP
