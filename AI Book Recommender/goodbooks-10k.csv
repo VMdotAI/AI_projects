@@ -1,0 +1,646 @@
+title,average_rating,pagesNumber,RatingDist4,RatingDistTotal,PublishMonth,PublishDay,Publisher,CountsOfReview,PublishYear,Language,author,genres,description,rating,RatingDist2,RatingDist5,ISBN,RatingDist3
+Harry Potter and the Half-Blood Prince 6,6.913888889,652,4:556485,total:2298124,16,9,Scholastic Inc.,28062,2006,eng,J.K. Rowling,Fntasy,Sample Description 1,4.57,2:25317,5:1546466,,3:159960
+Harry Potter and the Order of the Phoenix 5,1:12455,870,4:604283,total:2358637,1,9,Scholastic Inc.,29770,2004,eng,J.K. Rowling,Biography,Sample Description 2,4.5,2:37005,5:1493113,0439358078,3:211781
+Harry Potter and the Sorcerer's Stone 1,1:108202,309,4:1513191,total:6587388,1,11,Scholastic Inc,75911,2003,eng,J.K. Rowling,Self-Help,Sample Description 3,4.47,2:130310,5:4268227,,3:567458
+Harry Potter and the Chamber of Secrets 2,1:11896,352,4:706082,total:2560657,1,11,Scholastic,244,2003,eng,J.K. Rowling,History,Sample Description 4,4.42,2:49353,5:1504505,0439554896,3:288821
+Harry Potter and the Prisoner of Azkaban 3,1:10128,435,4:630534,total:2610317,1,5,Scholastic Inc.,37093,2004,eng,J.K. Rowling,Science,Sample Description 5,4.57,2:24849,5:1749958,043965548X,3:194848
+Harry Potter and the Goblet of Fire 4,6.582638889,734,4:606800,total:2431085,28,9,Scholastic,31978,2002,eng,J.K. Rowling,Fntasy,Sample Description 6,4.5600000000000005,2:24282,5:1612165,,3:178419
+"Harry Potter Boxed Set, Books 1-5",0.320833333,2690,3.395833333,total:43968,13,9,Scholastic,166,2004,eng,J.K. Rowling,Biography,Sample Description 7,4.78,0.279861111,5:37432,0439682584,0.959027778
+"Unauthorized Harry Potter Book Seven News: ""Half-Blood Prince"" Analysis and Speculation",1:00,152,4:07,total:28,26,4,Nimble Books,1,2005,en-US,W. Frederick Zimmerman,Self-Help,Sample Description 8,3.79,2:05,5:10,0976540606,3:06
+Harry Potter Collection 6,0.220138889,3342,3.193055556,total:30313,12,9,Scholastic,809,2005,eng,J.K. Rowling,History,Sample Description 9,4.73,0.234722222,5:24406,0439827604,0.870833333
+"The Ultimate Hitchhiker's Guide: Five Complete Novels and One Story (Hitchhiker's Guide to the Galaxy, #1-5)",2.432638889,815,4:75683,total:274268,1,11,Gramercy Books,255,2005,eng,Douglas Adams,Science,Sample Description 10,4.37,5.370138889,5:157499,0517226952,3:30030
+"The Ultimate Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1-5)",2.432638889,815,4:75683,total:274268,30,4,Del Rey Books,4119,2002,eng,Douglas Adams,Fntasy,Sample Description 11,4.37,5.370138889,5:157499,0345453743,3:30030
+"The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1)",1:28636,215,4:396332,total:1350083,3,8,Crown,470,2004,eng,Douglas Adams,Biography,Sample Description 12,4.22,2:54163,5:682711,1400052920,3:188241
+"The Ultimate Hitchhiker's Guide (Hitchhiker's Guide to the Galaxy, #1-5)",2.432638889,815,4:75683,total:274268,17,1,Wings Books,194,1996,eng,Douglas Adams,Self-Help,Sample Description 13,4.37,5.370138889,5:157499,0517149257,3:30030
+A Short History of Nearly Everything,3.611111111,544,4:94040,total:276166,14,9,Broadway Books,9545,2004,eng,Bill Bryson,History,Sample Description 14,4.21,6.588194444,5:129555,076790818X,3:38064
+Bill Bryson's African Diary,0.214583333,55,1.839583333,total:8393,3,12,Broadway Books,503,2002,eng,Bill Bryson,Science,Sample Description 15,3.45,0.767361111,1.186111111,0767915062,2.445833333
+Bryson's Dictionary of Troublesome Words: A Writer's Guide to Getting It Right,1:36,256,0.909027778,total:2656,14,9,Broadway Books,131,2004,eng,Bill Bryson,Fntasy,Sample Description 16,3.88,0.172222222,0.714583333,0767910435,0.606944444
+In a Sunburned Country,0.727083333,335,4:34941,total:85287,15,5,Broadway Books,4298,2001,eng,Bill Bryson,Biography,Sample Description 17,4.07,2.097222222,5:30483,0767903862,3:15976
+I'm a Stranger Here Myself: Notes on Returning to America After Twenty Years Away,0.55625,304,4:22652,total:56082,28,6,Broadway Books,2224,2000,eng,Bill Bryson,Self-Help,Sample Description 18,3.9,1.964583333,5:15891,076790382X,3:14089
+The Lost Continent: Travels in Small Town America,0.995138889,299,4:18427,total:49012,28,8,William Morrow Paperbacks,2276,1990,eng,Bill Bryson,History,Sample Description 19,3.83,2.31875,5:14013,0060920084,3:11980
+Neither Here nor There: Travels in Europe,0.855555556,254,4:20655,total:54388,28,3,William Morrow Paperbacks,2264,1993,eng,Bill Bryson,Science,Sample Description 20,3.86,2.378472222,5:15888,0380713802,3:13368
+Notes from a Small Island,1.074305556,324,4:35153,total:89491,28,5,William Morrow Paperbacks,3335,1997,eng,Bill Bryson,Fntasy,Sample Description 21,3.92,3.359027778,5:27216,0380727501,3:20918
+The Mother Tongue: English and How It Got That Way,0.381944444,270,4:13483,total:33416,28,9,William Morrow Paperbacks,2123,1991,eng,Bill Bryson,Biography,Sample Description 22,3.93,1.257638889,5:10087,0380715430,5.447916667
+J.R.R. Tolkien 4-Book Boxed Set: The Hobbit and The Lord of the Rings,0.680555556,1728,4:22283,total:106621,25,9,Ballantine Books,1548,2012,eng,J.R.R. Tolkien,Self-Help,Sample Description 23,4.6,1.085416667,5:75533,0345538374,4.598611111
+"The Lord of the Rings (The Lord of the Rings, #1-3)",4.051388889,1184,4:126639,total:539513,21,10,Houghton Mifflin Harcourt,90,2004,eng,J.R.R. Tolkien,History,Sample Description 24,4.5,2:11142,5:352247,0618517650,3:43711
+"The Fellowship of the Ring (The Lord of the Rings, #1)",1:45879,398,4:593379,total:2255826,5,9,Houghton Mifflin Harcourt,13935,2003,eng,J.R.R. Tolkien,Science,Sample Description 25,4.36,2:65166,5:1314771,0618346252,3:236631
+The Lord of the Rings: Weapons and Warfare,0.274305556,218,2.970138889,total:20920,5,11,Houghton Mifflin Harcourt,45,2003,eng,Chris   Smith,Fntasy,Sample Description 26,4.53,0.304861111,5:14522,0618391002,1.310416667
+The Lord of the Rings: Complete Visual Companion,1:04,224,0.223611111,total:380,15,11,Houghton Mifflin Harcourt,6,2004,eng,Jude Fisher,Biography,Sample Description 27,4.5,2:10,0.384027778,0618510826,3:31
+The Lord of the Rings Box Set,4.051388889,1223,4:126639,total:539513,19,9,,19,2001,eng,J.R.R. Tolkien,Self-Help,Sample Description 28,4.5,2:11142,5:352247,0618153977,3:43711
+Agile Web Development with Rails: A Pragmatic Guide,1:56,558,0.736111111,total:2080,28,7,Pragmatic Bookshelf,59,2005,eng,Dave Thomas,History,Sample Description 29,3.84,0.169444444,0.611111111,097669400X,0.472222222
+Ruby Quickly: Ruby and Rails for the Real World,1:01,360,4:00,total:5,1,8,Manning Publications,0,2006,,Mark   Watson,Science,Sample Description 30,3.4,2:00,5:02,1932394745,3:02
+"Hatchet (Brian's Saga, #1)",1:14007,208,4:92227,total:288973,1,4,Atheneum Books for Young Readers: Richard Jackson Books,12157,2000,eng,Gary Paulsen,Fntasy,Sample Description 31,3.7199999999999998,2:26144,5:85440,0689840926,3:71155
+"Hatchet: A Guide for Using ""Hatchet"" in the Classroom",1:03,48,4:08,total:36,28,8,Teacher Created Resources,2,1994,eng,Donna Ickes,Biography,Sample Description 32,4,2:02,5:18,1557344493,3:05
+Guts: The True Stories behind Hatchet and the Brian Books,1:54,144,0.743055556,total:2400,23,1,Delacorte Press,336,2001,eng,Gary Paulsen,Self-Help,Sample Description 33,3.88,0.179861111,0.743055556,0385326505,0.546527778
+Molly Hatchet - 5 of the Best,1:01,56,4:00,total:6,10,6,Cherry Lane Music Company,0,2003,eng,Molly Hatchet,History,Sample Description 34,4.33,2:00,5:05,1575606240,3:00
+Hatchet Jobs: Writings on Contemporary Fiction,1:10,228,4:43,total:123,1,11,The New Press,16,2005,en-US,Dale Peck,Science,Sample Description 35,3.46,2:10,5:22,1595580271,3:38
+The Woodsman and His Hatchet: Eighty Years on Back Country Survival,1:00,150,4:00,total:10,1,10,Stoneydale Press,0,1996,,Bud Cheff Sr.,Fntasy,Sample Description 36,3.6,2:02,5:04,0912299622,3:04
+A Changeling for All Seasons (Changeling Seasons #1),1:10,304,4:49,total:171,1,11,Changeling Press,4,2005,eng,Angela Knight,Biography,Sample Description 37,3.76,2:13,5:57,1595962808,3:42
+"Changeling (Changeling, #1)",1:39,256,0.411111111,total:1049,17,8,Viking Juvenile,112,2006,eng,Delia Sherman,Self-Help,Sample Description 38,3.6,0.150694444,0.366666667,0670059676,0.35625
+The Changeling Sea,0.096527778,137,1.29375,total:4836,14,4,Firebird,306,2003,eng,Patricia A. McKillip,History,Sample Description 39,4.06,0.21875,1.555555556,0141312629,0.81875
+The Changeling,1:13,228,0.48125,total:1365,8,6,iUniverse,97,2004,eng,Zilpha Keatley Snyder,Science,Sample Description 40,4.17,2:48,0.632638889,0595321801,0.291666667
+"Shadows in the Starlight (Changeling Detective, #2)",1:06,288,0.220138889,total:199,6,2,Tor Books,6,2007,,Elaine Cunningham,Fntasy,Sample Description 41,3.68,2:11,5:41,0765348527,0.169444444
+"The Changeling (Daughters of England, #15)",1:02,369,0.271527778,total:439,28,8,Ivy Books,13,1990,eng,Philippa Carr,Biography,Sample Description 42,3.98,2:21,0.313888889,0449146979,0.203472222
+The Known World,0.689583333,388,4:12417,total:33493,29,8,Amistad,2632,2006,eng,Edward P. Jones,Self-Help,Sample Description 43,3.83,1.791666667,7.079166667,0061159174,5.534027778
+"Traders, Guns & Money: Knowns and Unknowns in the Dazzling World of Derivatives",1:38,334,0.561805556,total:1645,15,5,FT Press,83,2006,eng,Satyajit Das,History,Sample Description 44,3.83,0.161111111,0.55,0273704745,0.426388889
+Artesia: Adventures in the Known World,1:00,352,4:24,total:53,14,12,Archaia,4,2005,eng,Mark Smylie,Science,Sample Description 45,4.13,2:02,5:19,1932386106,3:08
+"The John McPhee Reader (John McPhee Reader, #1)",1:02,416,0.322222222,total:624,1,6,"Farrar, Straus and Giroux",37,1982,eng,John McPhee,Fntasy,Sample Description 46,4.42,2:06,0.441666667,0374517193,3:56
+Uncommon Carriers,1:21,248,0.764583333,total:1895,16,5,Farrar Straus Giroux,203,2006,en-US,John McPhee,Biography,Sample Description 47,3.95,0.135416667,0.575694444,0374280398,0.409027778
+Heirs of General Practice,1:01,128,0.25,total:287,1,4,"Farrar, Straus and Giroux",23,1986,eng,John McPhee,Self-Help,Sample Description 48,4.16,2:06,0.284722222,0374519749,3:50
+The Control of Nature,1:25,288,1.179166667,total:3747,1,9,"Farrar, Straus and Giroux",305,1990,en-US,John McPhee,History,Sample Description 49,4.24,0.144444444,1.36875,0374522596,0.475694444
+Annals of the Former World,1:56,720,0.863194444,total:3472,6,1,"Farrar, Straus and Giroux",227,1999,eng,John McPhee,Science,Sample Description 50,4.34,0.153472222,1.550694444,0374518734,0.388194444
+Coming Into the Country,1:57,448,1.757638889,total:6049,1,4,"Farrar, Straus and Giroux",262,1991,eng,John McPhee,Fntasy,Sample Description 51,4.22,0.186805556,2.063888889,0374522871,0.736111111
+La Place de la Concorde Suisse,1:07,160,0.398611111,total:816,1,4,"Farrar, Straus and Giroux",53,1994,fre,John McPhee,Biography,Sample Description 52,3.92,2:44,0.374305556,0374519323,0.258333333
+Giving Good Weight,1:03,288,0.340972222,total:587,1,4,"Farrar, Straus and Giroux",36,1994,eng,John McPhee,Self-Help,Sample Description 53,4.22,2:10,0.376388889,0374516006,0.18125
+"The Second John McPhee Reader (John McPhee Reader, #2)",1:00,393,0.216666667,total:202,28,2,"Farrar, Straus and Giroux",1,1996,,John McPhee,History,Sample Description 54,4.37,2:02,0.279861111,0374256861,3:25
+Rising from the Plains,1:07,208,0.551388889,total:1418,1,11,"Farrar, Straus and Giroux",99,1987,eng,John McPhee,Science,Sample Description 55,4.23,2:31,0.636111111,0374520658,0.270833333
+The Heidi Chronicles,1:38,81,0.517361111,total:1513,1,3,Dramatists Play Service,70,2002,eng,Wendy Wasserstein,Fntasy,Sample Description 56,3.75,0.179861111,0.500694444,0822205106,0.409722222
+The Heidi Chronicles: Uncommon Women and Others & Isn't It Romantic,0.1,249,0.797222222,total:2776,2,7,Vintage,64,1991,eng,Wendy Wasserstein,Biography,Sample Description 57,3.84,0.220138889,0.829166667,0679734996,0.60625
+"Active Literacy Across the Curriculum: Strategies for Reading, Writing, Speaking, and Listening",1:01,138,4:09,total:31,29,3,Routledge,1,2006,eng,Heidi Hayes Jacobs,Self-Help,Sample Description 58,3.94,2:00,5:11,1596670231,3:10
+Simply Beautiful Beaded Jewelry,1:01,128,4:22,total:64,14,3,North Light Books,4,2006,en-US,Heidi Boyd,History,Sample Description 59,3.77,2:05,5:17,1581807740,3:19
+Always Enough: God's Miraculous Provision Among the Poorest Children on Earth,1:09,192,0.338194444,total:1009,1,9,Chosen Books,53,2003,eng,Heidi Baker,Science,Sample Description 60,4.46,2:18,0.647222222,0800793617,0.196527778
+Mapping the Big Picture: Integrating Curriculum & Assessment K-12,1:03,108,4:23,total:77,28,1,Association for Supervision & Curriculum Development,2,1997,en-US,Heidi Hayes Jacobs,Fntasy,Sample Description 61,3.66,2:04,5:19,0871202867,3:28
+"Heidi (Heidi, #1-2)",1.647222222,352,4:55474,total:167957,15,11,Kingfisher,2289,2002,eng,Johanna Spyri,Biography,Sample Description 62,3.99,6.1625,5:61857,0753454947,3:39560
+Getting Results with Curriculum Mapping,1:02,192,4:08,total:56,15,11,ASCD,5,2004,eng,Heidi Hayes Jacobs,Self-Help,Sample Description 63,3.25,2:12,5:11,0871209993,3:23
+"Cinnamon and Roses (Rose Trilogy, #1)",1:03,298,4:22,total:82,1,1,Leisure Books,5,2000,,Heidi Betts,History,Sample Description 64,3.83,2:08,5:30,0843946687,3:19
+There's Always Enough: The Miraculous Move of God in Mozambique,1:09,192,0.338194444,total:1009,28,4,Sovereign World,6,2003,eng,Rolland Baker,Science,Sample Description 65,4.46,2:18,0.647222222,1852402873,0.196527778
+What to Expect the First Year (What to Expect),0.322222222,832,3.956944444,total:15480,16,10,Workman Publishing Company,663,2003,eng,Heidi Murkoff,Fntasy,Sample Description 66,3.89,0.692361111,3.672916667,0761129588,2.730555556
+The Player's Handbook: The Ultimate Guide on Dating and Relationships,1:01,123,4:07,total:34,10,5,One Hour Entertainment,8,2004,eng,Heidi Fleiss,Biography,Sample Description 67,3.8200000000000003,2:05,5:14,0972016414,3:07
+Simply Beautiful Beading: 53 Quick and Easy Projects,1:00,128,4:30,total:86,19,8,North Light Books,4,2004,en-US,Heidi Boyd,Self-Help,Sample Description 68,3.7800000000000002,2:09,5:23,1581805632,3:24
+Chasing Jordan,1:04,240,4:07,total:36,11,7,Serpent's Tail,7,2005,,Heidi W. Boehringer,History,Sample Description 69,3.44,2:03,5:10,1852428937,3:12
+Seven-Year Seduction,1:03,184,4:31,total:89,14,2,Silhouette Desire,6,2006,,Heidi Betts,Science,Sample Description 70,3.61,2:07,5:18,0373767099,3:30
+"God Emperor of Dune (Dune Chronicles, #4)",0.894444444,423,4:20916,total:63372,15,6,Ace Books,167,1987,eng,Frank Herbert,Fntasy,Sample Description 71,3.85,3.504166667,5:20076,0441294677,3:16226
+"Dune (Dune Chronicles, #1)",1:15670,528,4:200976,total:688418,2,8,Ace Books,468,2005,eng,Frank Herbert,Biography,Sample Description 72,4.23,2:27945,5:351127,,3:92700
+Chapterhouse: Dune (Dune Chronicles #6),0.564583333,436,4:14899,total:44113,1,7,Ace Books,569,1987,eng,Frank Herbert,Self-Help,Sample Description 73,3.91,2.125694444,5:14828,0441102670,3:10692
+Dune Messiah (Dune Chronicles #2),0.924305556,331,4:47997,total:119887,15,7,Ace Books,2372,1987,eng,Frank Herbert,History,Sample Description 74,3.88,4.716666667,5:33606,0441172695,3:30341
+Dreamer of Dune: The Biography of Frank Herbert,1:18,592,0.357638889,total:849,1,7,Tor Books,21,2004,en-US,Brian Herbert,Science,Sample Description 75,4.01,2:42,0.436805556,0765306476,0.253472222
+The Secrets of Frank Herbert's Dune,1:00,160,4:10,total:44,31,10,iBooks,0,2000,,James Van Hise,Fntasy,Sample Description 76,3.52,2:07,5:10,074340730X,3:17
+"Heretics of Dune (Dune Chronicles, #5)",0.590972222,480,4:18351,total:51869,16,4,Putnam,20,1984,eng,Frank Herbert,Biography,Sample Description 77,3.86,2.475694444,5:15664,0399128980,3:13618
+The Road to Dune,0.113888889,426,1.238888889,total:5143,29,8,Tor Science Fiction,83,2006,eng,Frank Herbert,Self-Help,Sample Description 78,3.88,0.316666667,1.440972222,0765353709,1.086111111
+Children of Dune (Dune Chronicles #3),0.750694444,408,4:38518,total:99703,15,5,Ace Books,1408,1987,eng,Frank Herbert,History,Sample Description 79,3.93,3.688194444,5:30710,,3:24263
+Heretics of Dune (Dune Chronicles #5),0.590972222,471,4:18351,total:51869,15,8,Ace Books,642,1987,eng,Frank Herbert,Science,Sample Description 80,3.86,2.475694444,5:15664,0441328008,3:13618
+The Lord of the Rings: The Art of the Fellowship of the Ring,0.229166667,192,4.040972222,total:28117,12,6,Houghton Mifflin Harcourt,102,2002,eng,Gary Russell,Fntasy,Sample Description 81,4.6,0.266666667,5:20057,0618212906,1.477083333
+The Patriarch: The Rise and Fall of the Bingham Dynasty,1:04,576,4:10,total:24,1,2,Touchstone,1,1993,,Susan E. Tifft,Biography,Sample Description 82,3.67,2:02,5:08,0671797077,3:00
+"The Power of One (The Power of One, #1)",0.654861111,544,4:22532,total:74341,29,9,Ballantine Books,4580,1996,eng,Bryce Courtenay,Self-Help,Sample Description 83,4.35,1.435416667,5:40853,034541005X,5.768055556
+The Power of One: Daisy Bates and the Little Rock Nine,1:01,192,4:10,total:37,20,12,Clarion Books,7,2004,,Dennis Brindell Fradin,History,Sample Description 84,4.41,2:00,5:22,061831556X,3:04
+The Power of One Christlike Life,1:01,159,4:08,total:40,1,7,Whitaker House,3,2000,,Francis Frangipane,Science,Sample Description 85,4.22,2:03,5:23,0883686287,3:05
+"The Power of One: One Person, One Rule, One Month",1:00,256,4:04,total:18,1,11,Thomas Nelson,1,2004,en-US,John C. Maxwell,Fntasy,Sample Description 86,4.22,2:02,5:10,0785260056,3:02
+Power of an Hour: Business and Life Mastery in One Hour a Week,1:12,205,4:55,total:207,19,5,Wiley,16,2006,eng,Dave Lakhani,Biography,Sample Description 87,3.34,2:38,5:39,0471780936,0.16875
+"The Power of One: The Solo Play for Playwrights, Actors, and Directors",1:01,240,4:04,total:15,7,2,Heinemann Drama,0,2000,eng,Louis E. Catron,Self-Help,Sample Description 88,3.67,2:02,5:05,0325001537,3:03
+"How to Buy, Sell & Profit on eBay: Kick-Start Your Home-Based Business in Just Thirty Days",1:02,336,4:31,total:90,3,5,William Morrow Paperbacks,9,2005,eng,Adam Ginsberg,History,Sample Description 89,3.48,2:14,5:15,006076287X,3:28
+eBay for Dummies,1:06,386,0.211111111,total:217,30,10,Wiley,9,2006,eng,Marsha Collier,Science,Sample Description 90,3.51,2:28,5:43,0470045299,0.177777778
+eBay PowerSeller Secrets: Insider Tips from eBay's Most Successful Sellers,1:05,385,4:22,total:64,24,9,McGraw-Hill/Osborne,2,2004,,Debra Schepp,Fntasy,Sample Description 91,3.59,2:02,5:14,0072258691,3:21
+What to Sell on ebay and Where to Get It: The Definitive Guide to Product Sourcing for eBay and Beyond,1:00,260,4:05,total:24,24,1,McGraw-Hill,0,2006,eng,Chris Malta,Biography,Sample Description 92,3.62,2:04,5:07,0072262788,3:08
+Starting an eBay Business for Dummies,1:05,384,4:37,total:117,17,9,Wiley,4,2004,eng,Marsha Collier,Self-Help,Sample Description 93,3.55,2:17,5:27,0764569244,3:31
+eBay: Top 100 Simplified Tips & Tricks,1:00,260,4:03,total:11,6,6,Wiley,0,2006,eng,Julia Wilkinson,History,Sample Description 94,4.27,2:01,5:06,0471933821,3:01
+ebay Timesaving Techniques for Dummies,1:01,391,4:04,total:23,31,5,Wiley,1,2004,en-US,Marsha Collier,Science,Sample Description 95,3.39,2:05,5:06,0764559915,3:07
+eBay Business All-in-One Desk Reference for Dummies,1:01,864,4:09,total:18,25,4,Wiley,3,2005,en-US,Marsha Collier,Fntasy,Sample Description 96,3.89,2:01,5:05,0764584383,3:02
+Ruby Cookbook,1:04,873,0.211805556,total:185,29,7,O'Reilly Media,4,2006,eng,Lucas Carlson,Biography,Sample Description 97,3.83,2:12,5:54,0596523696,3:50
+Ruby Ann's Down Home Trailer Park Cookbook,1:02,240,4:16,total:51,3,5,Citadel,5,2005,eng,Ruby Ann Boxcar,Self-Help,Sample Description 98,4.12,2:01,5:23,0806523492,3:09
+Ruby Ann's Down Home Trailer Park BBQin' Cookbook,1:00,206,4:09,total:13,3,5,Citadel,2,2005,eng,Ruby Ann Boxcar,History,Sample Description 99,4.08,2:01,5:03,0806525363,3:00
+Ruby's Low-Fat Soul Food Cookbook,1:00,175,4:01,total:5,1,9,McGraw-Hill/Contemporary Books,0,1996,,Ruby Banks-Payne,Science,Sample Description 100,4.8,2:00,5:04,0809231530,3:00
+Rails Cookbook: Recipes for Rapid Web Development with Ruby,1:03,514,4:23,total:68,1,1,O'Reilly Media,1,2007,eng,Rob Orsini,Fntasy,Sample Description 101,3.46,2:10,5:12,0596527314,3:20
+The Red Hot Cookbook: Create a Culinary Inferno with Flaming Good Recipes from Around the World,1:00,256,4:00,total:4,1,12,Anness Publishing/Southwater Publishing,0,2000,,Ruby Le Bois,Biography,Sample Description 102,3.75,2:01,5:02,184215298X,3:01
+Anna Karenina,1:16361,838,4:207053,total:631550,31,5,Penguin Classics,1873,2004,eng,Leo Tolstoy,Self-Help,Sample Description 103,4.05,2:34470,5:261170,0143035002,3:112496
+CliffsNotes on Tolstoy's Anna Karenina,1:01,80,4:04,total:19,26,11,Cliffs Notes,3,1965,eng,Marianne Sturman,History,Sample Description 104,3.89,2:03,5:09,0822001837,3:02
+Dinner with Anna Karenina,1:44,360,0.234722222,total:498,28,1,Mira Books,65,2006,eng,Gloria Goldreich,Science,Sample Description 105,2.98,0.15625,5:43,0778322270,0.269444444
+Tolstoy: Anna Karenina,1:27,128,0.448611111,total:1214,26,11,Cambridge University Press,33,1987,eng,Anthony Thorlby,Fntasy,Sample Description 106,4.19,2:47,0.605555556,0521313252,0.2375
+Untouchable,0.095833333,160,1.260416667,total:3967,3,7,Penguin Books,286,1990,eng,Mulk Raj Anand,Biography,Sample Description 107,3.7199999999999998,0.290972222,0.804861111,0140183957,0.927777778
+The Untouchable,1:50,368,0.933333333,total:2686,30,6,Vintage Books,218,1998,eng,John Banville,Self-Help,Sample Description 108,3.95,0.183333333,0.79375,0679767479,0.503472222
+The Untouchables,1:14,256,0.352083333,total:684,1,2,Buccaneer Books,31,1996,eng,Eliot Ness,History,Sample Description 109,3.89,2:41,0.350694444,1568491980,0.234027778
+Untouchables: My Family's Triumphant Journey Out of the Caste System in Modern India,1:04,320,0.265277778,total:357,27,9,Scribner,40,2005,en-US,Narendra Jadhav,Science,Sample Description 110,3.8200000000000003,2:22,0.270833333,0743270797,0.19375
+Dalit: The Black Untaouchables of India,1:01,100,4:02,total:10,28,1,Clarity Press,0,1995,eng,V.T. Rajshekar,Fntasy,Sample Description 111,4.2,2:00,5:06,0932863051,3:01
+"The Untouchables: Subordination, Poverty and the State in Modern India (Contemporary South Asia, #4)",1:01,308,4:01,total:5,30,4,Cambridge University Press,0,1998,,Oliver Mendelsohn,Biography,Sample Description 112,4,2:00,5:03,0521553628,3:00
+Growing Up Untouchable in India: A Dalit Autobiography,1:02,224,4:05,total:20,20,12,Rowman & Littlefield Publishers,4,2000,eng,Vasant Moon,Self-Help,Sample Description 113,3.65,2:02,5:07,0742508803,3:04
+The Book of Evidence,1:00,304,4:03,total:12,20,11,Oxford University Press,2,2003,,Peter Achinstein,History,Sample Description 114,3.83,2:01,5:04,0195171713,3:04
+The Evidence-Based Social Work Skills Book,1:01,216,4:01,total:10,22,9,Pearson,0,2003,eng,Barry R. Cournoyer,Science,Sample Description 115,3.4,2:03,5:04,0205358624,3:01
+"A Wrinkle in Time: A Guide for Using ""A Wrinkle in Time"" in the Classroom",1:00,48,4:02,total:17,28,9,Teacher Created Resources,0,1991,eng,John Carratello,Fntasy,Sample Description 116,4,2:03,5:09,1557344035,3:03
+Wrinkles in Time,1:19,360,0.428472222,total:1161,1,10,Harper Perennial,23,1994,eng,George Smoot,Biography,Sample Description 117,4.01,0.129861111,0.522222222,0380720442,0.295833333
+A Wrinkle in Time: With Related Readings (A Wrinkle in Time Quintet #1),1:32628,250,4:317628,total:1017308,1,5,EMC/Paradigm Publishing,6,2002,eng,Madeleine L'Engle,Self-Help,Sample Description 118,4,2:60867,5:412718,0821925326,3:193467
+Literature Circle Guide: A Wrinkle in Time,1:02,32,4:03,total:15,1,1,Teaching Resources,0,2002,eng,Tara MacCarthy,History,Sample Description 119,3.6,2:02,5:06,043927169X,3:02
+Un raccourci dans le temps,1:32628,254,4:317628,total:1017308,28,4,Pocket,8,1997,,Madeleine L'Engle,Science,Sample Description 120,4,2:60867,5:412718,2266081594,3:193467
+Empress in the Wrinkle of Time: The Knight-King Chronicle,1:00,508,4:00,total:4,28,8,Xlibris Corporation,0,2000,,Valerie Metcalf Estoye,Fntasy,Sample Description 121,4.25,2:01,5:03,0738817538,3:00
+A Wrinkle in Time: L-I-T Guide,1:03,40,4:12,total:54,1,12,Educational Impressions,3,1997,,Charlotte S. Jaffe,Biography,Sample Description 122,3.91,2:05,5:24,1566440114,3:10
+A Wrinkle in Time: Teacher Guide,1:01,32,4:04,total:22,1,12,Novel Units,0,1998,,Anne Troy,Self-Help,Sample Description 123,4.14,2:01,5:12,1561371181,3:04
+Una arruga en el tiempo – A Wrinkle in Time,1:32628,205,4:317628,total:1017308,1,6,Turtleback Books,1,1984,spa,Madeleine L'Engle,History,Sample Description 124,4,2:60867,5:412718,0606105263,3:193467
+"The Long Shadow (The Morland Dynasty, #6)",1:03,367,0.28125,total:455,1,6,"Little, Brown Book Group",17,1994,eng,Cynthia Harrod-Eagles,Science,Sample Description 125,4.11,2:15,0.334027778,0751506435,0.188194444
+"A Long Shadow (Inspector Ian Rutledge, #8)",1:10,352,1.425,total:3879,3,1,William Morrow,238,2006,eng,Charles Todd,Fntasy,Sample Description 126,4.12,2:56,1.109722222,006078671X,0.613194444
+Vicksburg's Long Shadow: The Civil War Legacy of Race and Remembrance,1:01,344,4:03,total:14,31,8,Rowman & Littlefield Publishers,4,2005,,Christopher Waldrep,Biography,Sample Description 127,3.29,2:03,5:03,0742548686,3:04
+Long Way Round: Chasing Shadows Across the World,0.15,320,2.697916667,total:9348,1,11,Atria Books,44,2005,en-US,Ewan McGregor,Self-Help,Sample Description 128,3.95,0.383333333,2.272916667,0743499344,1.6125
+"A Shadow in Summer (Long Price Quartet, #1)",0.280555556,331,3.15625,total:11123,7,3,Tor Books,636,2006,eng,Daniel Abraham,History,Sample Description 129,3.61,0.766666667,1.634027778,0765313405,2.511805556
+New Hope for the Dead (Hoke Mosely #2),1:02,244,0.496527778,total:1051,10,8,Vintage Crime/Black Lizard,79,2004,eng,Charles Willeford,Science,Sample Description 130,3.9,2:56,0.392361111,1400032490,0.300694444
+Sideswipe: A Hoke Moseley Novel,1:07,215,0.448611111,total:931,8,3,Vintage Crime/Black Lizard,72,2005,eng,Charles Willeford,Fntasy,Sample Description 131,4.04,2:40,0.421527778,1400032482,0.24375
+The Way We Die Now,1:04,256,0.426388889,total:803,16,8,Vintage Crime/Black Lizard,62,2005,,Charles Willeford,Biography,Sample Description 132,4.06,2:27,0.386111111,1400032504,0.223611111
+Miami Blues (Hoke Moseley #1),1:44,191,1.136805556,total:3508,10,8,Vintage Crime/Black Lizard,181,2004,eng,Charles Willeford,Self-Help,Sample Description 133,3.94,0.197222222,0.952083333,1400032466,0.702777778
+The Woman Chaser,1:05,192,0.338888889,total:600,1,4,Newstand Library,51,1960,,Charles Willeford,History,Sample Description 134,3.93,2:26,0.329166667,1842430017,0.227083333
+The Machine in Ward Eleven,1:02,160,4:50,total:147,27,8,Thunder's Mouth Press,15,2001,,Charles Willeford,Science,Sample Description 135,3.59,2:12,5:26,1568582102,3:57
+Wild Wives,1:03,102,0.294444444,total:452,9,9,Vintage Crime/Black Lizard,44,2009,,Charles Willeford,Fntasy,Sample Description 136,3.68,2:30,0.263888889,1400032474,0.232638889
+The Shark-Infested Custard,1:08,272,0.318055556,total:574,6,12,Vintage Crime/Black Lizard,58,2005,,Charles Willeford,Biography,Sample Description 137,3.8200000000000003,2:37,0.315277778,1400032512,0.234027778
+The Black Mass of Brother Springer,1:03,208,0.236805556,total:237,1,12,Wit's End Books,11,2003,,Charles Willeford,Self-Help,Sample Description 138,3.9699999999999998,2:08,0.258333333,1930997353,3:53
+Comedy after Postmodernism: Rereading Comedy from Edward Lear to Charles Willeford,1:01,184,4:00,total:7,15,1,Texas Tech University Press,0,2001,,Kirby Olson,History,Sample Description 139,4.14,2:00,5:05,0896724409,3:01
+Cockfighter,1:18,200,0.498611111,total:1200,1,6,Blackmask.com,62,2005,,Charles Willeford,Science,Sample Description 140,4.11,2:41,0.532638889,1596542225,0.261111111
+"Sideswipe (Hoke Moseley, #3)",1:07,279,0.448611111,total:931,12,6,Ballantine Books,3,1988,,Charles Willeford,Fntasy,Sample Description 141,4.04,2:40,0.421527778,0345349474,0.24375
+The Burnt Orange Heresy (Vintage Crime/Black Lizard),1:06,144,0.369444444,total:771,3,10,Vintage,11,1990,eng,Charles Willeford,Biography,Sample Description 142,3.89,2:57,0.368055556,0679732527,0.254166667
+I am Charlotte Simmons,1.141666667,738,5.447916667,total:23687,30,8,Picador USA,1696,2005,eng,Tom Wolfe,Self-Help,Sample Description 143,3.42,2.238194444,3.197916667,0312424442,5.048611111
+The Complete Verse and Other Nonsense,1:20,624,0.388194444,total:974,29,10,Penguin Books,27,2002,,Edward Lear,History,Sample Description 144,4.18,2:26,0.519444444,0142002275,0.236805556
+The Complete Nonsense of Edward Lear,1:16,287,0.343055556,total:789,1,6,Amereon Limited,39,1940,,Edward Lear,Science,Sample Description 145,4.03,2:51,0.430555556,089190090X,0.227777778
+Poetry for Young People: Edward Lear,1:01,48,4:30,total:76,1,10,Sterling,19,2001,eng,Edward Lear,Fntasy,Sample Description 146,3.91,2:05,5:23,0806930772,3:17
+An Edward Lear Alphabet,1:01,32,4:10,total:50,1,4,HarperCollins Publishers,9,1999,,Edward Lear,Biography,Sample Description 147,3.42,2:09,5:11,0060281138,3:19
+A Was Once an Apple Pie,1:08,32,4:57,total:217,1,9,Orchard Books,67,2005,,Edward Lear,Self-Help,Sample Description 148,3.41,2:35,5:42,0439660564,0.177083333
+The Owl and the Pussycat,0.096527778,32,1.75,total:8057,7,5,Puffin Books,9,1996,,Edward Lear,History,Sample Description 149,4.19,0.313888889,2.928472222,0698113675,1.13125
+The Pobble Who Has No Toes (Edward Lear's Little Books of Nonsense),1:00,24,4:12,total:50,27,3,HarperCollins Publishers,6,1986,,Edward Lear,Science,Sample Description 150,4.6,2:00,5:34,0246128828,3:04
+The Puffin Book of Nonsense Verse,1:01,287,4:43,total:103,3,10,Puffin,6,1996,eng,Quentin Blake,Fntasy,Sample Description 151,4,2:04,5:33,0140366601,3:22
+Henry Miller on Writing,1:08,217,0.408333333,total:1019,1,2,New Directions Publishing,52,1964,eng,Henry Miller,Biography,Sample Description 152,4.23,2:30,0.5375,0811201120,0.235416667
+The Colossus of Maroussi,0.089583333,244,0.95,total:3280,17,1,New Directions,204,1975,,Henry Miller,Self-Help,Sample Description 153,3.98,0.226388889,1.05625,0811201090,0.580555556
+Quiet Days in Clichy,0.118055556,154,1.213194444,total:4228,13,1,Grove Press,143,1994,eng,Henry Miller,History,Sample Description 154,3.69,0.325694444,0.89375,080213016X,1.010416667
+Big Sur and the Oranges of Hieronymus Bosch,1:19,400,0.823611111,total:2600,17,1,New Directions,142,1957,,Henry Miller,Science,Sample Description 155,4.02,0.180555556,0.865277778,0811201074,0.50625
+Tropic of Cancer,2.195833333,318,4:19730,total:60009,6,1,Grove Press,2405,1994,eng,Henry Miller,Fntasy,Sample Description 156,3.68,4.155555556,5:16602,0802131786,3:14711
+Tropic of Capricorn,0.513194444,348,4.386805556,total:17084,13,1,Grove Press,463,1994,eng,Henry Miller,Biography,Sample Description 157,3.7800000000000002,1.029166667,3.690277778,0802151825,2.869444444
+"Nexus (The Rosy Crucifixion, #3)",1:19,316,1.125694444,total:3577,13,1,Grove Press,58,1994,eng,Henry Miller,Self-Help,Sample Description 158,4.1,0.175,1.152083333,0802151787,0.601388889
+"Sexus (The Rosy Crucifixion, #1)",0.203472222,506,2.284722222,total:8560,12,1,Grove Press,255,1994,eng,Henry Miller,History,Sample Description 159,3.98,0.434722222,2.3875,0802151809,1.259027778
+The Air-Conditioned Nightmare,0.086111111,292,0.938194444,total:2916,17,1,New Directions,143,1970,eng,Henry Miller,Science,Sample Description 160,3.83,0.228472222,0.780555556,0811201066,0.616666667
+The Time of the Assassins:  a Study of Rimbaud,1:23,160,0.422222222,total:1025,17,1,New Directions,54,1962,,Henry Miller,Fntasy,Sample Description 161,3.95,0.127083333,0.455555556,0811201155,0.274305556
+Public Places-Urban Spaces: The Dimensions of Urban Design,1:03,320,4:49,total:116,14,3,Architectural Press,7,2003,,Matthew Carmona,Biography,Sample Description 162,4.1,2:03,5:44,0750636327,3:17
+Behavior in Public Places,1:04,248,0.243055556,total:238,1,9,Free Press,7,1966,,Erving Goffman,Self-Help,Sample Description 163,4.1,2:03,0.264583333,0029119405,3:40
+Haunted Places in America: A Guide to Spooked and Spooky Public Places in the United States,1:01,288,4:06,total:19,1,10,Lyons Press,1,2004,,Charles A. Coulombe,History,Sample Description 164,3.42,2:06,5:05,1592284159,3:01
+"Public Places: My Life in the Theater, with Peter O'Toole and Beyond",1:00,441,4:19,total:48,3,5,Faber & Faber,6,2004,,Sian Phillips,Science,Sample Description 165,3.85,2:04,5:13,0571211194,3:12
+Together Alone: Personal Relationships in Public Places,1:00,320,4:02,total:12,8,8,University of California Press,1,2005,,Calvin Morrill,Fntasy,Sample Description 166,3.67,2:00,5:03,0520245237,3:07
+Squares: A Public Place Design Guide for Urbanists,1:00,208,4:03,total:9,1,9,University of New Mexico Press,0,2006,,Mark C. Childs,Biography,Sample Description 167,3.7800000000000002,2:00,5:02,0826330045,3:04
+Just in Time! Pastoral Prayers in Public Places,1:00,80,4:01,total:5,1,3,Abingdon Press,0,2006,,F. Belton Joyner Jr.,Self-Help,Sample Description 168,3.8,2:01,5:02,0687495679,3:01
+Pike Place Public Market Seafood Cookbook,1:00,129,4:08,total:24,1,6,Ten Speed Press,2,2005,,Braiden Rex-Johnson,History,Sample Description 169,3.83,2:00,5:06,1580086802,3:10
+Art for Public Places: Critical Essays,1:00,244,4:01,total:4,1,1,Winchester School of Arts Press,1,1989,,Malcolm Miles,Science,Sample Description 170,4.25,2:00,5:02,0950678384,3:01
+The Portrait of a Lady,1.570833333,797,4:23320,total:68057,30,9,Penguin Classics,1994,2003,eng,Henry James,Fntasy,Sample Description 171,3.7800000000000002,3.915972222,5:19713,0141439637,3:17303
+Portrait of the Blue Lady: The Character of Melancholy,1:00,314,4:05,total:9,26,10,"Spring Journal, Inc",1,2004,,Lyn Cowan,Biography,Sample Description 172,4.22,2:00,5:03,1882670965,3:01
+New Essays on 'The Portrait of a Lady',1:00,178,4:00,total:3,4,12,Cambridge University Press,0,1990,,Joel Porte,Self-Help,Sample Description 173,4,2:01,5:02,0521345081,3:00
+The Lover,0.652777778,117,4:11787,total:33882,8,9,Pantheon Books,1473,1998,eng,Marguerite Duras,History,Sample Description 174,3.74,2.171527778,6.526388889,,6.451388889
+Writing,1:37,91,0.549305556,total:1595,6,5,Brookline Books,49,1999,eng,Marguerite Duras,Science,Sample Description 175,3.74,0.191666667,0.505555556,1571290532,0.41875
+The War,1:36,192,0.755555556,total:2144,1,8,The New Press,66,1994,eng,Marguerite Duras,Fntasy,Sample Description 176,3.85,0.166666667,0.6125,1565842219,0.5125
+Craniosacral Therapy II: Beyond the Dura,1:00,259,4:15,total:46,1,1,Eastland Press,1,1990,,John E. Upledger,Biography,Sample Description 177,4.35,2:01,5:24,093961605X,3:06
+The Ravishing of Lol Stein,0.126388889,181,0.815277778,total:3053,12,3,Pantheon,131,1986,en-US,Marguerite Duras,Self-Help,Sample Description 178,3.66,0.327083333,0.7875,0394743040,0.688888889
+A Treasury of Kahlil Gibran,1:20,456,0.546527778,total:1945,1,1,Citadel Press,10,1976,,Kahlil Gibran,History,Sample Description 179,4.43,2:38,1.008333333,0806504102,0.255555556
+Love Letters,1:19,178,0.249305556,total:418,1,7,One World (UK),8,1999,eng,Kahlil Gibran,Science,Sample Description 180,3.7,2:41,0.296527778,1851681825,0.202777778
+The Prophet,2.820833333,128,4:62839,total:220719,21,2,Knopf,51,1995,,Kahlil Gibran,Fntasy,Sample Description 181,4.23,6.295138889,5:112917,0679440674,3:32016
+Kahlil Gibran: His Life and World,1:01,464,4:15,total:42,1,4,Interlink Publishing Group,2,1998,eng,Jean Gibran,Biography,Sample Description 182,4.21,2:00,5:19,156656249X,3:07
+The Beloved: Reflections on the Path of the Heart,1:06,102,0.263194444,total:389,1,1,Penguin Books,16,1998,eng,Kahlil Gibran,Self-Help,Sample Description 183,4.19,2:09,0.328472222,014019553X,0.168055556
+Jesus the Son of Man,1:42,216,0.670138889,total:2183,21,2,Knopf,83,1995,eng,Kahlil Gibran,History,Sample Description 184,3.98,0.179166667,0.779166667,0394431243,0.441666667
+The Broken Wings,0.28125,132,4.006944444,total:16106,3,3,Citadel,528,2003,eng,Kahlil Gibran,Science,Sample Description 185,3.92,0.8,4.058333333,0806501901,2.663194444
+Sand and Foam,0.096527778,100,1.495138889,total:5413,14,6,Knopf,218,2011,eng,Kahlil Gibran,Fntasy,Sample Description 186,4.08,0.246527778,1.711111111,067943920X,0.834722222
+Treasure Island,4.781944444,311,4:140643,total:380722,15,9,Kingfisher,6859,2001,eng,Robert Louis Stevenson,Biography,Sample Description 187,3.83,2:23087,5:106542,0753453800,3:103624
+Treasure Island (Great Illustrated Classics),1:37,232,0.935416667,total:3433,31,1,Abdo Publishing Company,16,2006,eng,Deidre S. Laiken,Self-Help,Sample Description 188,4.05,0.186805556,1.15,1577658051,0.669444444
+Cliffs Notes on Stevenson's Treasure Island and Kidnapped,1:00,80,4:02,total:5,24,7,Cliffs Notes,0,1974,,O.L. Mishk,History,Sample Description 189,4.6,2:00,5:03,0822013061,3:00
+George Eliot and Judaism: An Attempt to Appreciate 'Daniel Deronda',1:00,100,4:00,total:3,1,5,University Press of the Pacific,0,2005,,David Kaufmann,Science,Sample Description 190,4.33,2:00,5:02,1410223221,3:01
+Daniel Deronda Notebooks,1:01,524,4:04,total:20,28,12,Cambridge University Press,0,1996,,George Eliot,Fntasy,Sample Description 191,3.7,2:04,5:08,0521460646,3:03
+"Daniel Deronda, V1",1:00,384,4:14,total:36,21,7,IndyPublish.com,2,2003,,George Eliot,Biography,Sample Description 192,4.31,2:01,5:17,1404384618,3:04
+Flight: 100 Years of Aviation,1:02,440,0.215972222,total:191,16,9,DK Publishing (Dorling Kindersley),2,2002,,R.G. Grant,Self-Help,Sample Description 193,4.31,2:04,0.273611111,0789489104,3:20
+100 Years of Lynchings,1:00,270,4:18,total:106,22,11,Black Classic Press,4,1996,eng,Ralph Ginzburg,History,Sample Description 194,4.61,2:01,0.261805556,0933121180,3:10
+If You Lived 100 Years Ago,1:02,80,4:50,total:134,1,9,Scholastic Paperbacks,20,1999,,Ann McGovern,Science,Sample Description 195,3.91,2:08,5:42,0590960016,3:32
+Camp Cooking: 100 Years The National Museum of Forest Service History,1:00,192,4:13,total:43,23,12,Gibbs Smith,1,2004,,National Museum of Forest Service History,Fntasy,Sample Description 196,4.42,2:02,5:25,1586857614,3:03
+El Siglo del Espiritu Santo,1:01,559,4:21,total:61,1,7,Vida Publishers,0,2006,,Vinson Synan,Biography,Sample Description 197,3.79,2:05,5:17,9875570923,3:17
+The Next 100 Years: Predictions to the Nations and the Church of the 21st Century,1:00,133,4:04,total:10,1,1,Arrow Publications,2,2004,,Dennis Cramer,Self-Help,Sample Description 198,4,2:00,5:03,1886296316,3:03
+Disney,1:00,224,4:34,total:92,1,2,Disney Editions,1,2003,,Dave   Smith,History,Sample Description 199,3.98,2:02,5:29,0786853808,3:27
+Masterwork Studies Series: 100 Years of Solitude,1:04,176,4:56,total:201,1,5,Twayne Publishers,14,1991,,Regina Janes,Science,Sample Description 200,4.05,2:19,0.271527778,0805779892,3:31
+Cien años de soledad,1:31197,448,4:191401,total:712566,1,1,French & European,7,1990,spa,Gabriel García Márquez,Fntasy,Sample Description 201,4.07,2:44384,5:339759,0785950109,3:105825
+Why Zebras Don't Get Ulcers,0.096527778,560,2.223611111,total:8126,15,9,Holt Paperbacks,619,2004,,Robert M. Sapolsky,Biography,Sample Description 202,4.17,0.286805556,2.630555556,0805073698,1.030555556
+Chess for Zebras,1:02,255,4:25,total:81,1,12,Gambit Publications,8,2003,,Jonathan Rowson,Self-Help,Sample Description 203,4.4,2:00,5:46,1901983854,3:08
+What If the Zebras Lost Their Stripes?,1:02,32,4:30,total:76,1,9,Paulist Press,14,1998,,John Reitano,History,Sample Description 204,4.14,2:03,5:32,0809166496,3:09
+On Beyond Zebra!,1:37,64,0.78125,total:2968,12,9,Random House Books for Young Readers,165,1955,eng,Dr. Seuss,Science,Sample Description 205,4.04,0.197916667,1.052083333,0394800842,0.5875
+Ziggy the Zebra,1:00,14,4:05,total:14,1,2,Piggy Toes Press,0,2000,,Libby Ellis,Fntasy,Sample Description 206,4.07,2:00,5:05,1581171048,3:04
+The Wedding Clause,1:02,256,4:53,total:173,7,6,Zebra,14,2005,eng,Debbie Raleigh,Biography,Sample Description 207,3.61,2:16,5:36,0821778250,0.170833333
+The Zebra Wall,1:10,147,0.213194444,total:227,15,2,Greenwillow Books,24,2005,eng,Kevin Henkes,Self-Help,Sample Description 208,3.44,2:35,5:44,0060733039,0.174305556
+"""A"" Is for Zebra",1:01,32,4:22,total:60,28,4,Sterling,21,2006,,Mark Shulman,History,Sample Description 209,3.7800000000000002,2:03,5:15,1402734948,3:19
+Lots and Lots of Zebra Stripes,1:00,32,4:12,total:38,1,3,Boyds Mills Press,7,2002,,Stephen R. Swinburne,Science,Sample Description 210,3.74,2:04,5:10,1563979802,3:12
+El perfume: Historia de un asesino,5.134722222,239,4:105950,total:300934,1,6,Booket,262,2002,spa,Patrick Süskind,Fntasy,Sample Description 211,4.02,2:16737,5:116750,8432216062,3:54163
+"Perfumes, Splashes  Colognes: Discovering and Crafting Your Personal Fragrances",1:01,176,4:20,total:62,11,1,"Storey Publishing, LLC",2,1997,,Nancy M. Booth,Biography,Sample Description 212,3.65,2:04,5:13,0882669850,3:24
+Wonderful World of Collecting Perfume Bottles: Identification & Value Guide,1:00,176,4:03,total:11,1,4,Collector Books,0,2006,,Jane Flanagan,Self-Help,Sample Description 213,4.09,2:01,5:05,1574325027,3:02
+Scents & Sensibilities: Creating Solid Perfumes for Well-Being,1:01,96,4:26,total:71,7,6,Gibbs Smith,1,2005,,Mandy Aftel,History,Sample Description 214,3.85,2:04,5:20,158685738X,3:20
+The Door Into Summer,0.155555556,304,5.845833333,total:21203,17,6,Del Rey,654,1997,eng,Robert A. Heinlein,Science,Sample Description 215,4.01,0.684027778,5.233333333,0345413997,3.430555556
+Stranger in a Strange Land,1:11617,528,4:81317,total:266867,1,10,Ace,6303,1991,eng,Robert A. Heinlein,Fntasy,Sample Description 216,3.92,2:18857,5:102853,0441788386,3:52223
+Time Enough for Love,0.559027778,589,7.071527778,total:30796,15,8,Ace,642,1988,eng,Robert A. Heinlein,Biography,Sample Description 217,3.9699999999999998,1.44375,5:11624,,4.65625
+To Sail Beyond the Sunset,0.222222222,434,2.634722222,total:10560,1,6,Ace Books,194,1988,en-US,Robert A. Heinlein,Self-Help,Sample Description 218,3.87,0.584027778,2.60625,0441748600,1.911111111
+Job: A Comedy of Justice,0.303472222,439,3.959722222,total:16459,12,10,Del Rey,440,1985,en-US,Robert A. Heinlein,History,Sample Description 219,3.7800000000000002,1.068055556,3.53125,0345316509,3.192361111
+"Time for the Stars (Heinlein's Juveniles, #10)",1:31,256,2.384027778,total:8040,8,8,Tor Books,202,2006,eng,Robert A. Heinlein,Science,Sample Description 220,3.9699999999999998,0.264583333,1.915277778,0765314932,1.58125
+"The Long Dark Tea-Time of the Soul (Dirk Gently, #2)",0.386805556,307,4:28327,total:74518,15,2,Pocket Books,1415,1991,eng,Douglas Adams,Fntasy,Sample Description 221,4.06,2.0625,5:27164,0671742515,3:15680
+"The Salmon of Doubt (Dirk Gently, #3)",0.1875,298,6.827083333,total:25401,26,4,Del Rey,752,2005,eng,Douglas Adams,Biography,Sample Description 222,3.93,0.979861111,5.654861111,0345455290,4.615277778
+Wish You Were Here: The Official Biography of Douglas Adams,1:38,368,0.80625,total:2777,27,12,Del Rey,49,2005,eng,Nick  Webb,Self-Help,Sample Description 223,4.14,0.151388889,1.046527778,0345476514,0.48125
+"Dirk Gently's Holistic Detective Agency (Dirk Gently, #1)",0.869444444,306,4:42964,total:113878,1,1,Pocket Books,2457,2002,eng,Douglas Adams,History,Sample Description 224,3.98,3.897222222,5:38322,,3:25908
+Velvet: A Novel of Suspense,1:01,221,4:00,total:7,1,6,Foul Play Press,0,1993,,Alec Kalla,Science,Sample Description 225,2.5700000000000003,2:03,5:01,0881502642,3:02
+Douglas Adams's Starship Titanic,0.270833333,256,2.532638889,total:10960,27,10,Ballantine Books,85,1998,eng,Terry Jones,Fntasy,Sample Description 226,3.6,0.897916667,1.958333333,0345368436,2.576388889
+The Salmon of Doubt: Hitchhiking the Galaxy One Last Time,0.1875,7,6.827083333,total:25401,1,1,Phoenix Audio,5,2006,,Douglas Adams,Biography,Sample Description 227,3.93,0.979861111,5.654861111,159777006X,4.615277778
+Salmon Doubts,1:05,128,4:36,total:154,20,7,Alternative Comics,29,2004,,Adam Sacks,Self-Help,Sample Description 228,3.25,2:31,5:22,1891867717,0.166666667
+Salmon of Doubt: Hitchhiking the Galaxy One Last Time,0.1875,336,6.827083333,total:25401,1,7,Turtleback Books,0,2003,eng,Douglas Adams,History,Sample Description 229,3.93,0.979861111,5.654861111,1417622857,4.615277778
+A Guide for Using the Phantom Tollbooth in the Classroom,1:00,48,4:04,total:16,1,3,Teacher Created Resources,0,1994,,Kathleen L. Bulloch,Science,Sample Description 230,4.25,2:00,5:08,1557344310,3:04
+A Colorful Symphony: Full Score,1:00,68,4:00,total:1,1,5,"G. Schirmer, Inc.",1,1997,,Robert Xavier Rodríguez,Fntasy,Sample Description 231,5,2:00,5:01,0793565561,3:00
+The Phantom Tollbooth: A Children's Play in Two Acts,1:02,72,4:32,total:100,12,1,"Samuel French, Inc.",14,2011,eng,Susan Nanus,Biography,Sample Description 232,4.11,2:07,5:45,0573650969,3:14
+On Bullshit,0.26875,67,2.485416667,total:10264,30,1,Princeton University Press,1005,2005,eng,Harry G. Frankfurt,Self-Help,Sample Description 233,3.5700000000000003,0.889583333,1.725,0691122946,2.384027778
+Another Bullshit Night in Suck City,0.215972222,347,2.756944444,total:10051,12,9,W. W. Norton & Company,909,2005,eng,Nick Flynn,History,Sample Description 234,3.79,0.636805556,2.10625,0393329402,1.888888889
+100 Bullshit Jobs...And How to Get Them,1:11,320,4:30,total:171,2,5,Harper Business,23,2006,,Stanley Bing,Science,Sample Description 235,3.19,2:35,5:30,0060734795,0.170138889
+The Business of Bullshit,1:00,193,4:02,total:17,30,5,Plume,3,2006,,Graham Edmonds,Fntasy,Sample Description 236,3.47,2:02,5:04,0452287332,3:09
+Bullshit Artist: The 9/11 Leadership Myth,1:00,326,4:02,total:6,28,3,Booksurge Publishing,0,2006,,Ron Schalow,Biography,Sample Description 237,4.67,2:00,5:04,141962461X,3:00
+Your Call Is Important to Us: The Truth About Bullshit,1:21,272,0.24375,total:324,23,5,Broadway Books,32,2006,,Laura Penny,Self-Help,Sample Description 238,3.42,2:48,5:58,1400081041,0.184722222
+"Bullets, Badges, and Bullshit",1:00,444,4:00,total:2,6,3,PublishAmerica,0,2006,,Phil T. O'Brien,History,Sample Description 239,5,2:00,5:02,1424124255,3:00
+"Hello, Lied the Agent: And Other Bullshit You Hear as a Hollywood TV Writer",1:03,342,4:15,total:56,1,9,Phoenix Books and Audio,8,2006,,Ian Gurvitz,Science,Sample Description 240,3.34,2:06,5:08,1597775320,3:24
+Lincoln at Gettysburg: The Words That Remade America,0.131944444,317,1.777083333,total:7245,12,6,Simon & Schuster,15,1993,en-US,Garry Wills,Fntasy,Sample Description 241,4.14,0.310416667,2.471527778,0671867423,0.965277778
+Lincoln's Gettysburg Address in Translation,1:46,36,1.148611111,total:6532,31,12,Library of Congress,0,1972,,Abraham Lincoln,Biography,Sample Description 242,4.53,0.147222222,3.249305556,0844400181,0.542361111
+The Gettysburg Address,1:46,32,1.148611111,total:6532,2,2,HMH Books for Young Readers,76,1998,eng,Abraham Lincoln,Self-Help,Sample Description 243,4.53,0.147222222,3.249305556,0395883970,0.542361111
+The Battle of Gettysburg and Lincoln's Gettyburg Address,1:00,48,4:01,total:7,1,5,Enslow Elementary,2,2004,,Carin T. Ford,History,Sample Description 244,4.14,2:01,5:04,0766022536,3:01
+Underworld,0.691666667,827,6.078472222,total:25858,9,7,Scribner,177,1998,eng,Don DeLillo,Science,Sample Description 245,3.92,1.419444444,6.852083333,0684848155,3.540277778
+Libra,0.173611111,480,4.063194444,total:13598,1,5,Penguin,572,1991,eng,Don DeLillo,Fntasy,Sample Description 246,3.99,0.519444444,3.288888889,0140156046,2.022916667
+Americana,0.158333333,377,1.286111111,total:4737,6,7,Penguin Books,55,1989,eng,Don DeLillo,Biography,Sample Description 247,3.43,0.501388889,0.677083333,0140119485,1.291666667
+Running Dog,1:37,256,0.572222222,total:1679,17,7,Vintage Contemporaries,76,1989,eng,Don DeLillo,Self-Help,Sample Description 248,3.43,0.202777778,0.342361111,0679722947,0.60625
+Ratner's Star,0.094444444,448,0.54375,total:1849,17,7,Vintage,17,1989,,Don DeLillo,History,Sample Description 249,3.48,0.257638889,0.469444444,0679722920,0.54375
+Cosmopolis,0.664583333,224,3.011805556,total:14391,6,4,Scribner,41,2004,eng,Don DeLillo,Science,Sample Description 250,3.22,1.850694444,1.403472222,0743244257,3.688194444
+Great Jones Street,0.093055556,272,0.864583333,total:2864,1,1,Penguin Books,149,1994,eng,Don DeLillo,Fntasy,Sample Description 251,3.48,0.315277778,0.504861111,0140179178,0.836111111
+The Names,0.118055556,339,1.039583333,total:3614,17,7,Vintage,213,1989,eng,Don DeLillo,Biography,Sample Description 252,3.64,0.334722222,0.776388889,0679722955,0.865972222
+Against the Day,0.140972222,1085,1.565972222,total:6265,21,11,Penguin Press,590,2006,eng,Thomas Pynchon,Self-Help,Sample Description 253,4.13,0.309027778,2.181944444,159420120X,0.777777778
+V.,0.397916667,547,4.950694444,total:18489,5,7,Harper Perennial Modern Classics,179,2005,eng,Thomas Pynchon,History,Sample Description 254,3.96,0.8125,4.71875,0060930217,2.584722222
+The Crying of Lot 49,2.006944444,152,4:23047,total:65731,1,4,Harper Perennial,231,1999,eng,Thomas Pynchon,Science,Sample Description 255,3.69,4.49375,5:17146,0060931671,3:16357
+Gravity's Rainbow,1.341666667,784,6.454861111,total:34208,1,1,Penguin Books,213,2000,eng,Thomas Pynchon,Fntasy,Sample Description 256,4,1.8,5:15768,0140283382,3.625694444
+Mason & Dixon,0.215277778,773,2.115277778,total:8963,3,1,Picador USA,609,2004,eng,Thomas Pynchon,Biography,Sample Description 257,4.07,0.436111111,2.922916667,0312423209,1.159722222
+Vineland,0.209027778,385,2.616666667,total:9221,1,9,Penguin Classics,69,1997,en-US,Thomas Pynchon,Self-Help,Sample Description 258,3.69,0.620138889,1.625,0141180633,1.957638889
+Slow Learner: Early Stories,0.083333333,193,1.146527778,total:4043,30,4,Back Bay Books,34,1985,eng,Thomas Pynchon,History,Sample Description 259,3.5,0.359027778,0.598611111,0316724432,1.245138889
+Thomas Pynchon (Bloom's Modern Critical Views),1:00,322,4:07,total:25,23,7,Chelsea House Publications,1,2003,,Harold Bloom,Science,Sample Description 260,3.6,2:00,5:04,0791074455,3:14
+Been Down So Long It Looks Like Up To Me,0.092361111,352,0.865277778,total:2776,29,8,Penguin Classics,220,1996,eng,Richard Fariña,Fntasy,Sample Description 261,3.79,0.228472222,0.747916667,0140189300,0.61875
+Vintage Didion,1:02,199,0.3,total:439,6,1,Vintage Books,25,2004,,Joan Didion,Biography,Sample Description 262,4.1,2:13,0.314583333,1400033934,0.179861111
+The Year of Magical Thinking,2.298611111,227,4:46936,total:131747,4,10,Knopf Publishing Group,337,2005,en-US,Joan Didion,Self-Help,Sample Description 263,3.89,6.585416667,5:43259,140004314X,3:28939
+The White Album,0.108333333,222,4.432638889,total:15311,1,10,Farrar Straus Giroux,763,1990,eng,Joan Didion,History,Sample Description 264,4.16,0.383333333,4.470833333,0374522219,1.8625
+A Book of Common Prayer,0.0875,272,1.113888889,total:3437,11,4,Vintage International,259,1995,eng,Joan Didion,Science,Sample Description 265,3.8,0.25625,0.821527778,0679754865,0.732638889
+Where I Was From,1:34,240,1.092361111,total:3354,14,9,Vintage,295,2004,eng,Joan Didion,Fntasy,Sample Description 266,3.86,0.239583333,0.844444444,0679752862,0.7125
+Slouching Towards Bethlehem,0.293055556,238,4:12452,total:33527,1,10,Farrar Straus Giroux,1876,1990,eng,Joan Didion,Biography,Sample Description 267,4.21,0.788888889,5:14865,0374521727,3.480555556
+Democracy,1:34,234,0.766666667,total:2307,25,4,Vintage International,172,1995,en-US,Joan Didion,Self-Help,Sample Description 268,3.8200000000000003,0.185416667,0.638194444,0679754857,0.571527778
+We Tell Ourselves Stories in Order to Live: Collected Nonfiction,1:04,1122,0.502083333,total:1588,17,10,Everyman's Library,109,2006,eng,Joan Didion,History,Sample Description 269,4.5,2:23,0.879861111,0307264874,0.202083333
+Miami,1:18,240,0.506944444,total:1242,29,9,Vintage,96,1998,,Joan Didion,Science,Sample Description 270,3.7,0.152083333,0.388194444,0679781803,0.386111111
+Play It As It Lays,0.368055556,231,4:10389,total:26972,15,11,"Farrar, Straus and Giroux",1757,2005,eng,Joan Didion,Fntasy,Sample Description 271,3.88,1.3125,5.750694444,0374529949,4.543055556
+Amazons: An Intimate Memoir by the First Woman Ever to Play in the National Hockey League,1:05,390,4:40,total:129,1,1,Holt McDougal,4,1980,,Cleo Birdwell,Biography,Sample Description 272,3.71,2:16,5:39,0030554268,3:29
+The New York Trilogy,0.935416667,308,4:22194,total:56393,28,3,Penguin Classics,1895,2006,eng,Paul Auster,Self-Help,Sample Description 273,3.89,2.670833333,5:17093,0143039830,3:12093
+"City of Glass (The New York Trilogy, #1)",0.263194444,203,4.098611111,total:14459,7,4,Penguin Books,748,1987,eng,Paul Auster,History,Sample Description 274,3.79,0.850694444,2.818055556,0140097317,2.635416667
+"Ghosts (The New York Trilogy, #2)",0.102083333,96,1.325,total:4495,7,7,Penguin Books,200,1987,eng,Paul Auster,Science,Sample Description 275,3.64,0.363194444,0.832638889,014009735X,1.123611111
+"The Locked Room (The New York Trilogy, #3)",1:50,179,1.28125,total:3769,1,11,Sun and Moon Press,167,1986,eng,Paul Auster,Fntasy,Sample Description 276,3.89,0.223611111,0.919444444,0940650762,0.741666667
+"New York Trilogy: New York Underground, Trapped, Love and Sex",1:00,156,4:00,total:2,20,4,iUniverse,0,2000,,Paul Hallasy,Biography,Sample Description 277,5,2:00,5:02,0595002234,3:00
+"New York Dreams (Virex Trilogy, #3)",1:01,336,4:17,total:41,1,8,Gollancz,1,2004,,Eric Brown,Self-Help,Sample Description 278,3.8,2:02,5:10,0575074949,3:11
+Pyramids of Montauk: Explorations in Consciousness,1:04,256,4:30,total:81,1,1,Sky Books (NY),2,1995,eng,Peter Moon,History,Sample Description 279,3.89,2:04,5:27,0963188925,3:16
+"All My Tomorrows (The Orphan Trains Trilogy, #2)",1:04,352,4:47,total:198,7,6,Multnomah,14,2003,,Al Lacy,Science,Sample Description 280,3.96,2:17,0.266666667,1590521307,3:46
+The Brooklyn Follies,0.231944444,306,7.06875,total:22296,17,10,Picador,1161,2006,eng,Paul Auster,Fntasy,Sample Description 281,3.84,0.91875,3.860416667,0312426232,4.028472222
+Moon Palace,0.328472222,320,5.73125,total:20000,1,4,Penguin Books,511,1990,eng,Paul Auster,Biography,Sample Description 282,3.94,0.840277778,4.64375,0140115854,2.970138889
+A Tomb for Anatole: Poetry,1:03,202,4:38,total:139,17,6,New Directions,15,2005,,Stéphane Mallarmé,Self-Help,Sample Description 283,4.37,2:01,0.263888889,0811215938,3:17
+The Invention of Solitude: A Memoir,0.157638889,192,3.083333333,total:10856,5,5,Penguin Books,12,1988,,Paul Auster,History,Sample Description 284,3.7800000000000002,0.584027778,2.063888889,0140106286,2.275
+The Music of Chance,0.10625,217,3.018055556,total:9487,1,12,Penguin Books,36,1991,en-US,Paul Auster,Science,Sample Description 285,3.91,0.404861111,1.990972222,0140154078,1.693055556
+Travels in the Scriptorium,0.363888889,145,1.861111111,total:8808,23,1,Henry Holt & Company,565,2007,eng,Paul Auster,Fntasy,Sample Description 286,3.23,1.119444444,0.907638889,0805081453,2.489583333
+In the Country of Last Things,0.202083333,188,3.247222222,total:10960,2,5,Penguin Books,52,1988,,Paul Auster,Biography,Sample Description 287,3.87,0.528472222,2.366666667,0140097058,1.891666667
+Leviathan,0.126388889,275,4.592361111,total:14561,1,9,Penguin Books,449,1993,eng,Paul Auster,Self-Help,Sample Description 288,3.96,0.502083333,3.124305556,0140178139,2.391666667
+The Random House Book of 20th Century French Poetry,1:00,690,4:48,total:170,12,1,Vintage,11,1984,,Paul Auster,History,Sample Description 289,4.5600000000000005,2:00,0.284027778,0394717481,3:13
+Paul Auster's New York - Promo: Mak.of Amer,1:00,97,4:21,total:66,14,9,Henry Holt & Company,2,1997,,Paul Auster,Science,Sample Description 290,3.89,2:04,5:21,080505667X,3:20
+The Inner Life of Martin Frost,1:11,40,0.229861111,total:304,1,4,Purdue University Press,8,2006,,Paul Auster,Fntasy,Sample Description 291,3.33,2:44,5:38,9051705441,0.208333333
+Disappearances,1:03,96,4:19,total:68,2,5,Harry N. Abrams,1,1989,,Paul Auster,Biography,Sample Description 292,3.4,2:10,5:12,0879513411,3:24
+The Red Notebook: True Stories,1:40,104,1.182638889,total:3788,17,6,New Directions,121,2002,eng,Paul Auster,Self-Help,Sample Description 293,3.77,0.253472222,0.831944444,0811214982,0.918055556
+Collected Poems,1:16,192,0.23125,total:260,5,1,Harry N. Abrams,3,2004,,Paul Auster,History,Sample Description 294,3.58,2:23,5:57,1585674044,0.174305556
+Paul Auster and Postmodern Quest: On the Road to Nowhere,1:00,221,4:00,total:2,6,11,"Peter Lang Inc., International Academic Publishers",0,2002,,Chippy M.L. Den Irvine,Science,Sample Description 295,4,2:00,5:01,0820461679,3:01
+Timbuktu / Leviathan / Moon Palace,1:00,1075,4:10,total:22,7,11,Actes Sud,1,2002,fre,Paul Auster,Fntasy,Sample Description 296,4.32,2:01,5:10,2742741461,3:01
+An Art of Desire: Reading Paul Auster,1:00,245,4:01,total:5,1,1,Brill/Rodopi,0,1999,,Bernd Herzogenrath,Biography,Sample Description 297,4,2:00,5:02,9042004533,3:02
+Paul Auster (Bloom's Modern Critical Views),1:00,254,4:06,total:11,18,9,Chelsea House Publications,0,2003,,Harold Bloom,Self-Help,Sample Description 298,3.8200000000000003,2:01,5:02,0791076628,3:02
+"The Art of Hunger: Essays, Prefaces, Interviews, The Red Notebook",1:02,368,0.311805556,total:489,1,9,Penguin Books,11,1997,,Paul Auster,History,Sample Description 299,3.87,2:23,0.292361111,0140267506,0.218055556
+World that is the Book: Paul Auster’s Fiction,1:00,200,4:04,total:10,1,11,Liverpool University Press,0,2001,,Aliki Varvogli,Science,Sample Description 300,3.6,2:00,5:01,0853236879,3:05
+Beyond the Red Notebook,1:00,224,4:06,total:10,1,8,University of Pennsylvania Press,0,1995,,Dennis Barone,Fntasy,Sample Description 301,4,2:00,5:02,0812215567,3:02
+Collapse: How Societies Choose to Fail or Succeed,0.75,608,4:23239,total:57246,27,12,Penguin Books Ltd. (London),2806,2005,eng,Jared Diamond,Biography,Sample Description 302,3.93,2.06875,5:17546,0143036556,3:12582
+The Coming Economic Collapse: How You Can Thrive When Oil Costs $200 a Barrel,1:12,211,0.217361111,total:257,1,2,Business Plus,26,2006,en-US,Stephen Leeb,Self-Help,Sample Description 303,3.39,2:28,5:40,0446579785,0.197222222
+Collapse of Complex Societies,1:12,262,0.386111111,total:821,29,3,Cambridge University Press,88,1990,eng,Joseph A. Tainter,History,Sample Description 304,4.16,2:25,0.445138889,052138673X,0.213194444
+Bowling Alone: The Collapse and Revival of American Community,0.103472222,544,1.614583333,total:5202,7,8,Simon  Schuster,518,2001,eng,Robert D. Putnam,Science,Sample Description 305,3.8,0.311805556,1.10625,0743203046,1.101388889
+The Collapse of Evolution,1:01,224,4:20,total:69,1,11,Baker Books,5,1997,,Scott M. Huse,Fntasy,Sample Description 306,4.1,2:04,5:31,0801057744,3:13
+Collapse of Burning Buildings: A Guide to Fireground Safety,1:00,150,4:01,total:6,1,1,Fire Engineering Books,0,1988,,Vincent Dunn,Biography,Sample Description 307,4.83,2:00,5:05,0878149031,3:00
+The Collapse of the Common Good: How America's Lawsuit Culture Undermines Our Freedom,1:02,272,4:18,total:65,29,1,Ballantine Books,4,2002,eng,Philip K. Howard,Self-Help,Sample Description 308,3.91,2:03,5:24,034543871X,3:18
+"Armageddon Averted: The Soviet Collapse, 1970-2000",1:11,245,0.360416667,total:635,16,11,"Oxford University Press, USA",54,2003,,Stephen Kotkin,History,Sample Description 309,3.73,2:30,0.289583333,0195168941,0.2625
+Reinventing the Enemy's Language: Contemporary Native Women's Writings of North America,1:03,576,0.235416667,total:298,17,9,W. W. Norton  Company,20,1998,eng,Joy Harjo,Science,Sample Description 310,4.39,2:04,0.321527778,0393318281,3:29
+The Languages of Native North America,1:00,773,4:10,total:34,6,7,Cambridge University Press,6,2001,,Marianne Mithun,Fntasy,Sample Description 311,4.53,2:00,5:21,052129875X,3:03
+Searching for Lost City: On the Trail of America's Native Languages,1:00,272,4:03,total:9,1,11,Lyons Press,1,2003,,Elizabeth Seay,Biography,Sample Description 312,3.89,2:01,5:03,1592281958,3:02
+Indian Sign Language,1:00,128,4:17,total:44,1,6,Dover Publications,2,1969,,William Tomkins,Self-Help,Sample Description 313,3.95,2:05,5:15,048622029X,3:07
+The Fantastic Inventions of Nikola Tesla,1:08,351,0.214583333,total:241,12,6,Adventures Unlimited Press,21,2014,,Nikola Tesla,History,Sample Description 314,4.05,2:15,0.282638889,0932813194,3:42
+My Inventions,0.094444444,88,1.489583333,total:5295,17,5,"Filiquarian Publishing, LLC.",268,2006,eng,Nikola Tesla,Science,Sample Description 315,4.01,0.255555556,1.538194444,1599869942,0.924305556
+Wizard: The Life and Times of Nikola Tesla: Biography of a Genius,1:57,542,1.073611111,total:3366,1,2,Citadel,340,2001,eng,Marc J.  Seifer,Fntasy,Sample Description 316,3.79,0.252083333,0.796527778,0806519606,0.759027778
+"Colorado Springs Notes, 1899-1900",1:01,439,4:10,total:25,1,8,Angriff Press,1,2001,,Brotherhood of Life,Biography,Sample Description 317,3.96,2:02,5:09,0913022268,3:03
+The Lost Journals of Nikola Tesla: HAARP - Chemtrails and the Secret of Alternative 4,1:03,155,4:13,total:44,2,12,Inner Light - Global Communications,3,2011,,Tim R. Swartz,Self-Help,Sample Description 318,3.91,2:03,5:18,1892062135,3:07
+Nikola Tesla: A Spark of Genius,1:00,144,4:50,total:108,1,10,Lerner Publications,6,1994,eng,Carol Dommermuth-Costa,History,Sample Description 319,3.93,2:04,5:27,0822549204,3:27
+Tesla Papers,1:02,100,4:35,total:110,1,12,Adventures Unlimited Press,2,2000,eng,Nikola Tesla,Science,Sample Description 320,4.13,2:05,5:49,0932813860,3:19
+21st Century Mysteries: Nikola Tesla: Federal Documents and References (CD-ROM),1:00,23931,4:00,total:2,3,2,Progressive Management,0,2006,,U.S. Government,Fntasy,Sample Description 321,5,2:00,5:02,1422004848,3:00
+Problem of Increasing Human Energy,1:05,112,0.220833333,total:265,1,4,Kessinger Publishing,13,1996,,Nikola Tesla,Biography,Sample Description 322,4.24,2:06,0.300694444,1564598446,3:43
+The Tesla Rotating Magnetic Field,1:00,48,4:01,total:1,8,12,Kessinger Publishing,0,2005,,Thomas Commerford Martin,Self-Help,Sample Description 323,4,2:00,5:00,1425318738,3:00
+Art Invention House,1:01,319,4:03,total:9,8,11,Rizzoli International Publications,0,2005,,Michael Webb,History,Sample Description 324,3.67,2:01,5:03,0847827356,3:01
+How Invention Begins: Echoes of Old Voices in the Rise of New Machines,1:00,277,4:06,total:16,14,7,"Oxford University Press, USA",2,2006,,John H. Lienhard,Science,Sample Description 325,3.75,2:02,5:04,019530599X,3:04
+The Invention of Peace: Reflections on War and International Order,1:04,128,4:35,total:101,8,2,Yale University Press,8,2001,,Michael Eliot Howard,Fntasy,Sample Description 326,3.69,2:07,5:25,0300088663,3:30
+Amazing Leonardo da Vinci Inventions: You Can Build Yourself,1:03,128,4:39,total:99,1,1,Nomad Press,14,2006,,Maxine Anderson,Biography,Sample Description 327,3.86,2:02,5:27,0974934429,3:28
+The Invention of Love,1:31,112,0.629861111,total:1734,10,8,Grove Press,100,1998,,Tom Stoppard,Self-Help,Sample Description 328,4.02,0.136805556,0.638194444,0802135811,0.361111111
+Sliding Into Home,1:02,224,4:30,total:89,1,4,Peachtree Publishers,16,2005,,Dori Hillestad Butler,History,Sample Description 329,3.89,2:05,5:29,1561453412,3:23
+Boys of Summer,1:25,249,0.264583333,total:510,27,6,Harlequin Blaze,12,2006,eng,Julie Elizabeth Leto,Science,Sample Description 330,3.77,2:37,0.325694444,0373792689,0.220833333
+"When Johnny Came Sliding Home: The Post-Civil War Baseball Boom, 1865-1870",1:00,313,4:03,total:8,1,6,McFarland & Company,0,2006,,William J. Ryczek,Fntasy,Sample Description 331,4.62,2:00,5:05,0786427574,3:00
+Programming Ruby: The Pragmatic Programmers' Guide,1:23,828,0.722916667,total:1938,11,10,Pragmatic Bookshelf,49,2004,en-US,Dave Thomas,Biography,Sample Description 332,4.03,0.1375,0.665972222,0974514055,0.386805556
+Programming Ruby: The Pragmatic Programmer's Guide,1:23,564,0.722916667,total:1938,17,10,Addison-Wesley Professional,0,2000,,Dave Thomas,Self-Help,Sample Description 333,4.03,0.1375,0.665972222,0201710897,0.386805556
+Best of Ruby Quiz Volume One,1:01,298,4:08,total:25,1,3,Pragmatic Bookshelf,0,2006,,James Edward Gray II,History,Sample Description 334,3.4,2:02,5:03,0976694077,3:11
+From Java to Ruby,1:00,160,4:06,total:29,28,6,Pragmatic Bookshelf,3,2006,,Bruce A. Tate,Science,Sample Description 335,3.14,2:06,5:02,0976694093,3:15
+Rails Recipes,1:04,332,0.240972222,total:318,1,6,Pragmatic Bookshelf,5,2006,,Chad Fowler,Fntasy,Sample Description 336,3.55,2:29,5:53,0977616606,0.211805556
+Learn to Program,1:05,149,0.315277778,total:532,23,1,Pragmatic Bookshelf,46,2006,,Chris  Pine,Biography,Sample Description 337,4.13,2:19,0.352083333,0976694042,0.185416667
+"No Fluff, Just Stuff Anthology",1:00,256,4:05,total:26,20,6,Pragmatic Bookshelf,1,2006,,Neal Ford,Self-Help,Sample Description 338,3.38,2:03,5:04,0977616665,3:14
+English-Cayuga/Cayuga-English Dictionary,1:00,750,4:00,total:0,28,12,University of Toronto Press,1,2002,,Frances Froman,History,Sample Description 339,0,2:00,5:00,080203618X,3:00
+Golding's Lord of the Flies (Cliffs Notes),1:03,112,4:30,total:102,13,6,Cliffs Notes,8,2000,eng,Maureen Kelly,Science,Sample Description 340,3.94,2:08,5:40,0764585975,3:21
+Lord of the Flies,1:116319,6,4:729026,total:2162549,11,10,Listening Library (Audio),97,2005,eng,William Golding,Fntasy,Sample Description 341,3.68,2:197639,5:586981,0307281701,3:532584
+Lord of the Flies (SparkNotes Literature Guides),1:03,72,4:14,total:45,10,1,SparkNotes,1,2002,,SparkNotes,Biography,Sample Description 342,3.76,2:04,5:15,1586633554,3:09
+A War Like No Other: How the Athenians & Spartans Fought the Peloponnesian War,1:17,397,0.729861111,total:2009,12,9,Random House,101,2006,eng,Victor Davis Hanson,Self-Help,Sample Description 343,4.11,0.130555556,0.738194444,0812969707,0.368055556
+Jack: A Life Like No Other,1:03,480,0.229861111,total:213,6,11,Random House,19,2001,,Geoffrey Perret,History,Sample Description 344,3.85,2:12,5:54,0375503633,3:53
+We Were Not Like Other People,1:00,216,4:06,total:14,1,1,HarperCollins Publishers,0,1989,eng,Ephraim Sevela,Science,Sample Description 345,4.14,2:00,5:05,0060255080,3:03
+The Lovely Bones,1:69395,327,4:682502,total:1942369,1,9,Random House,361,2006,eng,Alice Sebold,Fntasy,Sample Description 346,3.81,2:145577,5:586072,,3:458823
+"Lovely in Her Bones (Elizabeth MacPherson, #2)",1:10,224,0.588888889,total:1529,13,5,Ballantine Books,43,1990,eng,Sharyn McCrumb,Biography,Sample Description 347,3.8,0.140972222,0.459722222,0345360354,0.448611111
+USB Mass Storage: Designing and Programming Devices and Embedded Hosts,1:00,287,4:01,total:6,1,9,Lakeview Research,1,2006,,Jan Axelson,Self-Help,Sample Description 348,3.67,2:01,5:02,1931448043,3:02
+Storage Network Performance Analysis,1:00,432,4:06,total:15,9,5,Wiley,0,2003,,Huseyin Simitci,History,Sample Description 349,3.93,2:00,5:04,076451685X,3:05
+Complete Home Storge,1:01,192,4:02,total:10,1,5,Oxmoor House,0,2003,,Barbara Braasch,Science,Sample Description 350,3.1,2:01,5:01,0376017708,3:05
+Taunton's Home Storage Idea Book,1:00,186,4:08,total:22,1,11,Taunton Press,1,2003,,Joanne Kellar Bouknight,Fntasy,Sample Description 351,3.68,2:03,5:05,1561586765,3:06
+Storage Area Network Essentials: A Complete Guide to Understanding and Implementing Sans,1:00,384,4:09,total:16,6,11,Wiley,2,2001,,Richard    Barker,Biography,Sample Description 352,4.06,2:00,5:04,0471034452,3:03
+Country Living Stylish Storage: Simple Ways to Contain Your Clutter,1:00,144,4:00,total:1,1,8,Hearst Books,0,2002,,Paige Gilchrist,Self-Help,Sample Description 353,3,2:00,5:00,1588162257,3:01
+Simple Handmade Storage: 23 Step-By-Step Weekend Projects,1:01,128,4:00,total:7,9,6,Laurel Glen Publishing,1,2004,,Philip Haxell,History,Sample Description 354,3.29,2:00,5:02,1592231500,3:04
+Storage (Chic Simple) (Chic Simple Components),1:00,103,4:02,total:6,29,11,Knopf,0,1994,,Jennifer Lisle,Science,Sample Description 355,2.83,2:03,5:00,0679432221,3:01
+"The Modern Gentleman: A Guide to Essential Manners, Savvy and Vice",1:13,341,0.255555556,total:377,27,8,Ten Speed Press,39,2002,,Phineas Mollod,Fntasy,Sample Description 356,3.81,2:30,0.288888889,1580084303,0.1875
+The Chap Manifesto: Revolutionary Etiquette for the Modern Gentleman,1:00,144,4:26,total:87,1,10,HarperCollins UK,3,2001,,Gustav Temple,Biography,Sample Description 357,3.9,2:08,5:30,1841156574,3:23
+The Compleat Gentleman: The Modern Man's Guide to Chivalry,1:09,256,4:55,total:186,1,5,Spence Publishing Company,20,2004,,Brad Miner,Self-Help,Sample Description 358,3.56,2:23,5:45,189062652X,3:54
+The Last Gentleman (Modern Library),1:43,442,0.790972222,total:2182,12,1,Modern Library,4,1998,,Walker Percy,History,Sample Description 359,3.87,0.169444444,0.63125,0679602720,0.477083333
+The Word of a Gentleman: Meditations for Modern Man,1:00,208,4:00,total:1,1,12,Zondervan Publishing Company,0,1983,,Richard C. Halverson,Science,Sample Description 360,3,2:00,5:00,0310258111,3:01
+CSS Mastery: Advanced Web Standards Solutions,1:11,255,0.452083333,total:1118,1,2,Friends of ED,38,2006,,Andy Budd,Fntasy,Sample Description 361,4.1,2:49,0.515972222,1590596145,0.266666667
+Head First HTML with CSS & XHTML,1:21,702,0.489583333,total:1312,1,12,O'Reilly Media,132,2005,,Elisabeth Robson,Biography,Sample Description 362,4.16,2:53,0.607638889,059610197X,0.2625
+The Zen of CSS Design: Visual Enlightenment for the Web,1:11,296,0.370833333,total:848,17,2,Peachpit Press,28,2005,en-US,Dave Shea,Self-Help,Sample Description 363,3.98,2:31,0.413194444,0321303474,0.275694444
+Stylin' with CSS: A Designer's Guide,1:02,288,0.215277778,total:174,6,5,New Riders Publishing,8,2005,,Charles Wyke-Smith,History,Sample Description 364,3.75,2:18,5:41,0321305256,3:43
+CSS Pocket Reference,1:01,128,0.263194444,total:427,6,8,O'Reilly Media,10,2004,,Eric A. Meyer,Science,Sample Description 365,3.9699999999999998,2:25,0.313194444,0596007779,0.202083333
+The CSS Anthology,1:02,376,0.231944444,total:231,8,11,SitePoint,4,2004,,Rachel Andrew,Fntasy,Sample Description 366,3.87,2:11,0.250694444,0957921888,0.16875
+HTML Utopia,1:03,520,4:10,total:49,21,4,SitePoint,6,2006,,Rachel Andrew,Biography,Sample Description 367,3.29,2:06,5:08,0975240277,3:22
+"HTML, XHTML, and CSS (Visual Quickstart Guide)",1:20,456,0.294444444,total:583,1,8,Peachpit Press,42,2006,en-US,Elizabeth Castro,Self-Help,Sample Description 368,3.79,2:45,0.334722222,0321430840,0.230555556
+Eric Meyer on CSS: Mastering the Language of Web Design with Cascading Style Sheets,1:02,352,0.257638889,total:302,28,6,New Riders Publishing,11,2002,,Eric A. Meyer,History,Sample Description 369,4.13,2:09,0.286111111,073571245X,3:48
+"1,000 Places to See in the U.S.A.  Canada Before You Die",1:35,1183,0.738194444,total:2430,7,6,Workman Publishing Company,17,2007,,Patricia Schultz,Science,Sample Description 370,4.05,0.159722222,0.869444444,0761136916,0.479166667
+1000 Record Covers,1:04,575,0.265277778,total:413,15,5,Taschen,32,2005,mul,Michael Ochs,Fntasy,Sample Description 371,3.84,2:27,0.291666667,3822840858,0.208333333
+Paul Huf: record covers,1:00,120,4:00,total:0,1,6,Groninger Museum,0,1999,,Hornbuckle,Biography,Sample Description 372,0,2:00,5:00,9080482110,3:00
+100 Albums That Changed Music: And 500 Songs You Need to Hear,1:00,319,4:11,total:32,1,8,Booksales,0,2006,,Sean Egan,Self-Help,Sample Description 373,3.5300000000000002,2:04,5:05,0785821341,3:12
+1000 Families,1:01,576,4:06,total:17,1,12,Taschen,2,2002,,Uwe Ommer,History,Sample Description 374,4.06,2:02,5:08,3822822647,3:00
+The Art of Rock: Posters from Presley to Punk,1:01,348,4:25,total:98,1,3,Abbeville Press,7,1999,,Paul Grushkin,Science,Sample Description 375,4.49,2:01,0.251388889,0789206110,3:09
+Art of Modern Rock: The Poster Explosion,1:54,492,0.377083333,total:1292,4,11,Chronicle Books,25,2004,,Paul Grushkin,Fntasy,Sample Description 376,4.12,0.129166667,0.665277778,081184529X,0.271527778
+Ambiguous Images: Gender and Rock Art,1:00,256,4:07,total:12,11,11,Altamira Press,0,2003,,Kelley Hays-Gilpin,Biography,Sample Description 377,3.83,2:01,5:02,0759100659,3:02
+Roadside Guide to Indian Ruins & Rock Art of the Southwest,1:00,240,4:05,total:8,1,1,Westcliffe Publishers,0,2005,,Gordon Sullivan,Self-Help,Sample Description 378,4.12,2:00,5:02,1565794818,3:01
+A Field Guide to Rock Art Symbols of the Greater Southwest,1:01,256,4:29,total:55,1,5,Johnson Books,5,1992,,Alex Patterson,History,Sample Description 379,4.18,2:00,5:19,1555660916,3:06
+Guide to Rock Art of the Utah Region: Sites with Public Access,1:01,245,4:04,total:12,31,12,Ancient City Press,1,2000,,Dennis Slifer,Science,Sample Description 380,4,2:00,5:05,158096009X,3:02
+The Rock Art of Texas Indians,1:00,253,4:03,total:10,1,1,University of Texas Press,0,1996,,William W. Newcomb,Fntasy,Sample Description 381,4.1,2:00,5:04,0292743262,3:03
+The Archaeology of Rock-Art,1:00,392,4:05,total:13,21,1,Cambridge University Press,0,1999,,Christopher Chippindale,Biography,Sample Description 382,4.31,2:00,5:06,0521576199,3:02
+African Rock Art: Paintings and Engravings on Stone,1:01,256,4:00,total:7,4,6,ABRAMS,1,2001,,David Coulson,Self-Help,Sample Description 383,4.14,2:00,5:05,0810943638,3:01
+Flash to the Core: An Interactive Sketchbook by Joshua Davis,1:00,352,4:12,total:29,24,7,New Riders Publishing,3,2002,,Joshua Davis,History,Sample Description 384,4.1,2:02,5:11,0735712883,3:04
+Killing Yourself to Live: 85% of a True Story,0.607638889,245,4:10530,total:27220,13,6,Scribner,1116,2006,eng,Chuck Klosterman,Science,Sample Description 385,3.81,1.359722222,5.401388889,0743264460,4.679861111
+"Sex, Drugs, and Cocoa Puffs: A Low Culture Manifesto",1.586805556,272,4:23490,total:63910,2,7,Scribner,3343,2004,eng,Chuck Klosterman,Fntasy,Sample Description 386,3.74,3.822222222,5:16659,0743236017,3:16152
+"Sex, Drugs and DNA: Science's Taboos Confronted",1:03,360,4:50,total:136,4,4,Palgrave Macmillan,13,2006,,Michael Stebbins,Biography,Sample Description 387,3.68,2:13,5:31,1403993424,3:39
+"Sex, Drugs & Economics: An Unconventional Introduction to Economics",1:02,263,4:45,total:115,8,3,Texere Publishing,5,2004,,Diane Coyle,Self-Help,Sample Description 388,3.6,2:08,5:18,1587991829,3:42
+"Sex, Drugs, Rock and Roll",1:03,136,0.240972222,total:299,1,9,Theatre Communications Group,10,2008,,Eric Bogosian,History,Sample Description 389,3.81,2:25,0.265972222,1559361247,0.18125
+"Sex, Drugs, Gambling, and Chocolate: A Workbook for Overcoming Addictions",1:00,240,4:13,total:30,1,8,Impact,3,2003,,A. Thomas Horvath,Science,Sample Description 390,3.9,2:04,5:09,1886230552,3:04
+"Life and Def: Sex, Drugs, Money, + God",1:11,288,0.259027778,total:391,24,9,Three Rivers Press,21,2002,,Russell Simmons,Fntasy,Sample Description 391,3.8,2:37,0.291666667,0609807153,0.1875
+The Vice Guide to Sex and Drugs and Rock and Roll,1:08,362,0.304861111,total:580,1,9,Grand Central Publishing,37,2003,,Suroosh Alvi,Biography,Sample Description 392,4.06,2:30,0.36875,0446692816,0.202777778
+Corporate Vices: What's Gone Wrong with Business?,1:01,148,4:00,total:4,30,12,Capstone,0,2002,,Charles Cohen,Self-Help,Sample Description 393,2.25,2:01,5:00,1841124354,3:02
+Grand Theft Auto: Vice City Official Strategy Guide for PC,1:02,192,4:13,total:54,19,5,BradyGames,0,2003,,Tim Bogenn,History,Sample Description 394,4.07,2:03,5:26,0744002613,3:10
+Grand Theft Auto: Vice City Stories Official Strategy Guide,1:00,240,4:02,total:16,30,10,BradyGames,0,2006,,Brady Games,Science,Sample Description 395,4.5,2:00,5:11,0744008433,3:03
+The Faking of the Vice-President: A Guide to Becoming a Superfluous Leader,1:00,96,4:00,total:0,14,5,Perigee,0,1992,,Rich Mintzer,Fntasy,Sample Description 396,0,2:00,5:00,0399517294,3:00
+Vice & Virtue in Everyday Life: Introductory Readings in Ethics,1:05,594,4:36,total:103,1,3,Wadsworth Publishing Company,5,2006,,Christina Hoff Sommers,Biography,Sample Description 397,3.74,2:08,5:29,0495130060,3:25
+Vice Cream: Over 70 Sinfully Delicious Dairy-Free Delights,1:02,112,4:43,total:100,24,2,Celestial Arts,10,2004,,Jeff Rogers,Self-Help,Sample Description 398,3.8200000000000003,2:09,5:26,1587611996,3:20
+Vice DOs & DON'Ts: 10 Years of Vice Magazine's Street Fashion Critiques,1:18,261,0.292361111,total:631,1,9,Warner Books (NY),65,2004,,Suroosh Alvi,History,Sample Description 399,4.17,2:29,0.423611111,0446692824,0.189583333
+"Vice (V, #8)",1:24,419,0.293055556,total:548,2,5,Bantam,19,1996,eng,Jane Feather,Science,Sample Description 400,3.51,0.126388889,0.280555556,0553572490,0.247222222
+"Small Vices (Spenser, #24)",1:17,384,1.675694444,total:4860,1,3,G.P. Putnam's Sons,189,1998,,Robert B. Parker,Fntasy,Sample Description 401,4.01,0.149305556,1.204861111,0425162486,0.916666667
+The Automatic Millionaire: A Powerful One-Step Plan to Live and Finish Rich,0.246527778,272,3.556944444,total:14815,27,12,Crown Business,641,2005,,David Bach,Biography,Sample Description 402,3.93,0.685416667,3.822916667,0767923820,2.601388889
+The Automatic Millionaire Homeowner: A Powerful Plan to Finish Rich in Real Estate,1:41,272,0.441666667,total:1470,7,3,Crown Business,91,2006,,David Bach,Self-Help,Sample Description 403,3.84,0.169444444,0.573611111,0767921208,0.390972222
+The Automatic Millionaire Workbook: A Personalized Plan to Live and Finish Rich. . . Automatically,1:03,200,4:34,total:102,4,1,Crown Business,6,2005,,David Bach,History,Sample Description 404,3.73,2:12,5:29,0767919483,3:24
+The Automatic Millionaire Workbook,1:03,240,4:34,total:102,25,1,Doubleday Canada,0,2005,,David Bach,Science,Sample Description 405,3.73,2:12,5:29,0385661339,3:24
+"Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values (Phaedrus, #1)",5.625,540,4:59866,total:187150,25,4,HarperTorch,6515,2006,eng,Robert M. Pirsig,Fntasy,Sample Description 406,3.77,2:17239,5:58822,0060589469,3:43183
+The Mouse and the Motorcycle,0.838888889,160,4:25241,total:74577,1,5,HarperCollins Publishers,1,2006,,Beverly Cleary,Biography,Sample Description 407,3.93,2.664583333,5:25212,0060588330,3:19259
+The Essential Guide to Motorcycle Maintenance,1:00,256,4:49,total:134,30,1,Whitehorse Press,4,2004,,Mark Zimmerman,Self-Help,Sample Description 408,3.94,2:09,5:43,1884313418,3:33
+The Complete Idiot's Guide to Motorcycles,1:02,448,4:46,total:123,4,1,Alpha,3,2005,,Darwin Holmstrom,History,Sample Description 409,3.7,2:06,5:25,1592573037,3:44
+Motorcycle Owner's Manual,1:00,112,4:20,total:52,26,5,DK,2,1997,,Hugo  Wilson,Science,Sample Description 410,3.77,2:04,5:12,0789416158,3:16
+How to Paint Your Motorcycle,1:00,128,4:00,total:4,10,11,Motorbooks,0,2005,,JoAnn Bortles,Fntasy,Sample Description 411,4,2:00,5:02,0760320780,3:02
+How to Restore Your Motorcycle,1:00,224,4:05,total:29,25,9,Motorbooks International,2,2000,,Mark Zimmerman,Biography,Sample Description 412,3.66,2:04,5:09,0760306818,3:11
+Once Upon a Cool Motorcycle Dude,1:38,32,0.576388889,total:1813,1,4,Walker & Company,275,2005,eng,Kevin O'Malley,Self-Help,Sample Description 413,4.08,0.15625,0.746527778,0802789471,0.336805556
+"Life is a Road, the Soul is a Motorcycle",1:00,212,4:07,total:19,5,3,iUniverse,3,2003,,Daniel B. Meyer,History,Sample Description 414,3.63,2:03,5:04,0595269907,3:05
+Motorcycle Touring: Everything You Need to Know,1:02,160,4:08,total:26,5,9,Motorbooks,2,2005,,Gregory W. Frazier,Science,Sample Description 415,3.5,2:01,5:05,0760320357,3:10
+Guidebook to Zen and the Art of Motorcycle Maintenance,1:05,408,0.231944444,total:293,19,11,William Morrow Paperbacks,11,1990,en-GB,Ronald L. DiSanto,Fntasy,Sample Description 416,3.7199999999999998,2:32,0.263194444,0688060692,0.182638889
+Motorcycle Basics Techbook,1:03,222,4:17,total:41,5,7,"Haynes Manuals N. America, Inc.",2,2002,eng,John Harold Haynes,Biography,Sample Description 417,3.88,2:01,5:13,185960515X,3:07
+"How to Ride a Motorcycle: A Rider's Guide to Strategy, Safety, and Skill Development",1:01,143,4:03,total:12,29,10,Motorbooks International,1,2005,,Pat Hahn,Self-Help,Sample Description 418,3.67,2:01,5:04,0760321140,3:03
+Motorcycle Camping Made Easy,1:00,127,4:15,total:37,25,8,Whitehorse Press,1,2002,,Bob Woofter,History,Sample Description 419,3.62,2:02,5:05,1884313337,3:15
+Dos Logos,1:00,444,4:39,total:114,1,9,Die Gestalten Verlag,1,2004,,Robert Klanten,Science,Sample Description 420,3.9699999999999998,2:06,5:39,3899550552,3:30
+Logo Design Workbook: A Hands-On Guide to Creating Logos,1:04,240,0.231944444,total:306,1,3,Rockport Publishers,9,2006,,Sean Adams,Fntasy,Sample Description 421,3.9,2:26,0.282638889,1592532349,0.177083333
+"LOGO Lounge: 2,000 International Identities by Leading Designers",1:04,191,4:43,total:121,1,9,Rockport Publishers,0,2004,eng,Catharine M. Fishel,Biography,Sample Description 422,3.91,2:03,5:39,1592530877,3:32
+Letterhead and Logo Design 9,1:00,240,4:23,total:55,1,9,Rockport Publishers,2,2005,,Mine Design,Self-Help,Sample Description 423,4.22,2:00,5:22,1592531822,3:10
+Los Logos: A Selected LOGO Collection,1:00,444,4:38,total:102,1,10,Gestalten,2,2002,,Nicholas Bourquin,History,Sample Description 424,3.96,2:08,5:34,3931126927,3:22
+The Big Book of Logos 3,1:00,384,4:06,total:11,30,3,Harper Design,0,2004,,David E. Carter,Science,Sample Description 425,4.18,2:01,5:04,0060596880,3:00
+Great Short Works,1:20,720,0.707638889,total:2402,2,3,Harper Perennial Modern Classics,67,2004,,Leo Tolstoy,Fntasy,Sample Description 426,4.31,2:49,1.060416667,0060586974,0.352083333
+The Death of Ivan Ilych And Other Stories,0.105555556,304,3.328472222,total:11317,1,4,Signet Classics,267,2003,eng,Leo Tolstoy,Biography,Sample Description 427,4.11,0.327777778,3.169444444,0451528808,1.552777778
+War and Peace,4.975694444,1392,4:76471,total:250130,25,6,Oxford University Press,6350,1998,eng,Leo Tolstoy,Self-Help,Sample Description 428,4.12,2:12179,5:114496,,3:39879
+Tolstoy Lied: A Love Story,1:24,336,0.295138889,total:615,1,9,Houghton Mifflin Harcourt,22,2006,,Rachel Kadish,History,Sample Description 429,3.45,0.145138889,0.2875,0618546693,0.265972222
+The Kingdom of God Is Within You,1:53,352,0.931944444,total:3318,8,9,Dover Publications,212,2006,eng,Leo Tolstoy,Science,Sample Description 430,4.12,0.195833333,1.214583333,0486451380,0.508333333
+Walk in the Light & Twenty-Three Tales,1:04,351,0.252777778,total:365,20,11,Orbis Books,22,2003,,Leo Tolstoy,Fntasy,Sample Description 431,4.15,2:13,0.31875,1570754608,0.170138889
+The Poet of Tolstoy Park,1:12,254,0.339583333,total:664,1,12,Ballantine Books,7,2004,,Sonny Brewer,Biography,Sample Description 432,3.93,2:40,0.358333333,034547631X,0.227083333
+Atlas Shrugged,1:35341,1168,4:90951,total:343606,1,8,Plume,14821,1999,eng,Ayn Rand,Self-Help,Sample Description 433,3.69,2:31732,5:123585,0452011876,3:61997
+For the New Intellectual: The Philosophy of Ayn Rand,0.179861111,224,0.75625,total:2905,1,12,Signet Book,109,1963,eng,Ayn Rand,History,Sample Description 434,3.68,0.273611111,0.832638889,0451163087,0.6
+The Fountainhead,1:19965,752,4:86078,total:288859,26,4,Dutton,230,2005,en-US,Ayn Rand,Science,Sample Description 435,3.87,2:20846,5:112705,0452286751,3:49265
+The Virtue of Selfishness: A New Concept of Egoism,1.056944444,176,2.466666667,total:12285,1,11,Signet,473,1964,eng,Ayn Rand,Fntasy,Sample Description 436,3.51,0.9125,2.672916667,0451163931,2.047222222
+Ayn Rand Answers: The Best of Her Q & A,1:16,241,0.296527778,total:614,1,11,Berkley Books,15,2005,,Robert Mayhew,Biography,Sample Description 437,4.16,2:27,0.410416667,0451216652,0.189583333
+Anthem,5.032638889,105,4:40646,total:126792,1,12,NAL,7353,1999,eng,Ayn Rand,Self-Help,Sample Description 438,3.63,2:12858,5:33137,0452281253,3:32964
+We the Living,0.542361111,464,6.183333333,total:25534,1,1,Signet,1094,1996,eng,Ayn Rand,History,Sample Description 439,3.91,1.238194444,6.371527778,0451187849,4.021527778
+Capitalism: The Unknown Ideal,0.182638889,340,0.934722222,total:3743,15,7,Signet,156,1986,eng,Ayn Rand,Science,Sample Description 440,3.88,0.256944444,1.198611111,0451147952,0.651388889
+Letters of Ayn Rand,1:17,681,0.265972222,total:472,1,2,NAL,2,1997,eng,Ayn Rand,Fntasy,Sample Description 441,3.9699999999999998,2:26,0.338194444,0452274044,0.19375
+"Philosophy, Who Needs It / Ayn Rand: In",0.141666667,276,0.736111111,total:2686,1,6,Bobbs-Merrill,1,1988,,Ayn Rand,Biography,Sample Description 442,3.88,0.208333333,0.910416667,0672527251,0.49375
+Sailing for Dummies,1:06,416,0.243055556,total:283,1,6,For Dummies,7,2006,eng,J.J. Isler,Self-Help,Sample Description 443,3.95,2:12,0.271527778,0471791431,0.169444444
+The Complete Sailor: Learning the Art of Sailing,1:04,208,0.236111111,total:287,1,3,International Marine Publishing,14,1995,,David Seidman,History,Sample Description 444,4.31,2:06,0.309027778,0070571317,3:32
+Sailing Fundamentals,1:02,224,0.230555556,total:239,1,8,Touchstone,12,2005,,Gary Jobson,Science,Sample Description 445,3.94,2:08,0.258333333,0743273087,0.170138889
+Sailing from Byzantium: How a Lost Empire Shaped the World,1:06,335,0.365972222,total:757,25,7,Delacorte Press,83,2006,eng,Colin  Wells,Fntasy,Sample Description 446,3.88,2:46,0.361111111,0553803816,0.2625
+Sailing Alone Around the Room: New and Selected Poems,0.216666667,172,3.145138889,total:12585,17,9,Random House Trade Paperbacks,635,2002,eng,Billy Collins,Biography,Sample Description 447,4.23,0.365277778,4.397916667,0375755195,1.239583333
+Learning to Sail: The Annapolis Sailing School Guide for All Ages,1:00,112,4:18,total:42,22,4,International Marine Publishing,3,1994,,Diane Goodman,Self-Help,Sample Description 448,4.07,2:01,5:14,0070240140,3:09
+The Greatest Sailing Stories Ever Told: Twenty-Seven Unforgettable Stories,1:00,286,4:18,total:56,1,4,Lyons Press,5,2004,eng,Christopher Caswell,History,Sample Description 449,3.62,2:03,5:10,1592283195,3:25
+"Sailing Smart: Winning Techniques, Tactics, And Strategies",1:00,208,4:16,total:34,15,4,Holt Paperbacks,0,1987,,Buddy Melges,Science,Sample Description 450,4.09,2:01,5:11,0805003517,3:06
+The Handbook Of Sailing,1:00,352,4:36,total:80,11,8,Knopf,8,1992,,Bob Bond,Fntasy,Sample Description 451,4.05,2:06,5:27,0679740635,3:11
+"Natural Cures ""They"" Don't Want You to Know about",0.284722222,571,0.415277778,total:1810,1,1,Alliance Publishing,286,2004,en-US,Kevin Trudeau,Biography,Sample Description 452,3.1,0.270833333,0.481944444,0975599518,0.429166667
+More Natural Cures Revealed,1:43,358,0.218055556,total:391,9,5,Vanguard Press,51,2006,,Kevin Trudeau,Self-Help,Sample Description 453,3.41,2:52,0.286111111,0975599542,0.201388889
+Natural Capitalism,1:18,416,0.654861111,total:1720,12,10,Back Bay Books,134,2000,,Paul Hawken,History,Sample Description 454,4,0.139583333,0.6,0316353000,0.370833333
+The Natural,0.276388889,231,2.665277778,total:9768,7,7,Farrar Straus Giroux,680,2003,eng,Bernard Malamud,Science,Sample Description 455,3.63,0.732638889,1.644444444,0374502005,2.089583333
+"Natural Hormone Balance for Women: Look Younger, Feel Stronger, and Live Life with Exuberance",1:02,320,4:52,total:153,1,1,Atria Books,16,2002,,Uzzi Reiss,Fntasy,Sample Description 456,4.08,2:10,0.252777778,0743406664,3:25
+Natural Resource Conservation: Management for a Sustainable Future,1:02,656,4:06,total:31,1,9,Prentice Hall,0,2004,,Daniel D. Chiras,Biography,Sample Description 457,3.39,2:06,5:08,0131458329,3:09
+The End of Print,1:10,160,0.327777778,total:734,1,11,Chronicle Books (CA),5,1995,,David Carson,Self-Help,Sample Description 458,4.06,2:39,0.418055556,0811811999,0.229861111
+"Trek David Carson, Recent Werk",1:01,456,4:18,total:63,8,3,Gingko Press,3,2004,,David Carson,History,Sample Description 459,4.24,2:00,5:31,1584230460,3:13
+David Carson 2ndsight,1:00,176,4:41,total:78,15,11,Universe,0,1997,,Lewis Blackwell,Science,Sample Description 460,4.06,2:02,5:22,078930127X,3:13
+The Book of Probes,1:01,573,4:15,total:48,29,12,Gingko Press,4,2003,,Marshall McLuhan,Fntasy,Sample Description 461,4.15,2:02,5:22,1584230568,3:08
+Ortlos: Architecture of the Net.Works,1:00,216,4:00,total:3,1,11,Hatje Cantz,0,2005,,Ivan Redi,Biography,Sample Description 462,4.33,2:00,5:02,3775716521,3:01
+Digging to America,0.2625,277,5.428472222,total:19554,2,5,Alfred A. Knopf,1853,2006,eng,Anne Tyler,Self-Help,Sample Description 463,3.55,1.286805556,2.147222222,0307263940,5.079166667
+"America: A Concise History, Volume 2: Since 1865",1:07,640,4:26,total:98,4,2,Bedford Books,4,2005,,James A. Henretta,History,Sample Description 464,3.83,2:03,5:36,0312416415,3:26
+Rereading America: Cultural Contexts for Critical Thinking and Writing,1:18,826,0.251388889,total:322,21,1,Bedford Books,3,2004,eng,Gary Colombo,Science,Sample Description 465,3.7800000000000002,2:21,0.272916667,0312405545,0.172222222
+Modern Latin America,1:06,528,0.265972222,total:366,7,10,"Oxford University Press, USA",11,2004,en-US,Thomas E. Skidmore,Fntasy,Sample Description 466,3.59,2:38,0.251388889,019517013X,0.20625
+The Plot Against America,0.579861111,391,4:17320,total:40517,27,9,Vintage International,3049,2005,eng,Philip Roth,Biography,Sample Description 467,3.77,1.991666667,6.572916667,1400079497,3:10509
+Covenant with Black America,1:11,254,0.245138889,total:330,22,2,Third World Press,22,2006,,Tavis Smiley,Self-Help,Sample Description 468,3.76,2:17,0.269444444,0883782774,0.195138889
+Democracy in America,0.247222222,703,5.592361111,total:21652,1,3,Gateway Editions,2,2003,,Alexis de Tocqueville,History,Sample Description 469,4.02,0.815277778,5.76875,089526160X,3.2375
+Naked Pictures of Famous People,0.247916667,164,2.211111111,total:9012,22,9,Dey Street Books,418,1999,en-GB,Jon   Stewart,Science,Sample Description 470,3.59,0.752083333,1.566666667,0688171621,2.105555556
+Kierkegaard's Relations to Hegel Reconsidered,1:00,718,4:04,total:10,12,11,Cambridge University Press,0,2003,,Jon  Stewart,Fntasy,Sample Description 471,4.4,2:00,5:05,0521828384,3:01
+"Swiss Graphic Design: The Origins and Growth of an International Style, 1920-1965",1:00,272,4:33,total:82,28,4,Yale University Press,5,2006,,Richard Hollis,Biography,Sample Description 472,4.35,2:00,5:39,0300106769,3:10
+Swiss Design 2002: Netzwerke / Ra(c)Seaux / Networks,1:00,226,4:00,total:1,1,1,Lars Muller Publishers,0,2003,,Ruedi Baur,Self-Help,Sample Description 473,2,2:01,5:00,3037780010,3:00
+Benzin: Young Swiss Graphic Design,1:00,336,4:01,total:8,1,10,Lars Muller Publishers,1,2001,,Thomas Bruggisser,History,Sample Description 474,4.12,2:02,5:05,3907078586,3:00
+Swiss Design 2004,1:00,216,4:00,total:0,22,10,Lars Muller Publishers,0,2004,,Bundesamt fur Kultur,Science,Sample Description 475,0,2:00,5:00,3037780444,3:00
+Swiss Design 2003: Desir Design,1:00,200,4:00,total:0,2,2,Lars Muller Publishers,0,2004,,Swiss Federal Office of Culture,Fntasy,Sample Description 476,0,2:00,5:00,3037780274,3:00
+The Art of Structural Design: A Swiss Legacy,1:00,212,4:01,total:1,11,3,Princeton University Art Museum,0,2003,,David P. Billington,Biography,Sample Description 477,4,2:00,5:00,0300097867,3:00
+Swiss Graphic Design,1:00,224,4:10,total:20,1,9,Gestalten Verlag,0,2000,,Hendrik Hellige,Self-Help,Sample Description 478,3.75,2:01,5:03,3931126366,3:06
+Charted Swiss Folk Designs,1:00,32,4:00,total:1,1,1,Dover Publications,0,1978,,Elvira Parolini-Ruffini,History,Sample Description 479,2,2:01,5:00,0486235742,3:00
+Guitar Chord Encyclopedia: 36 Chords in Each Key,1:01,312,4:02,total:15,1,1,Alfred Music,0,1993,,Steve Hall,Science,Sample Description 480,3.73,2:01,5:06,0882845292,3:05
+"Incredible Chord Finder: Easy-to-Use Guide to Over 1,100 Guitar Chords",1:00,104,4:06,total:12,1,12,,1,1986,,Songbook,Fntasy,Sample Description 481,3.67,2:00,5:01,0881885940,3:05
+Guitar Case Chord Book in Full Color - Compact Music Guides Series,1:00,48,4:01,total:2,1,3,Hal Leonard Publishing Corporation,0,2002,,Music Sales Corporation,Biography,Sample Description 482,4.5,2:00,5:01,0825619408,3:00
+Chord Workbook for Guitar Volume One,1:00,176,4:01,total:5,1,4,Muse Eek Publishing Company,0,2001,,Bruce Arnold,Self-Help,Sample Description 483,4.4,2:00,5:03,1890944505,3:01
+Guitar Chord Bible,1:02,256,4:16,total:84,26,8,Chartwell Books,3,2009,,Phil Capone,History,Sample Description 484,4.2,2:03,5:46,0785820833,3:17
+"The Guitar Chord Wheel Book: Over 22,000 Chords!",1:00,336,4:02,total:8,1,1,Hal Leonard Publishing Corporation,1,1993,,Hal Leonard Publishing Company,Science,Sample Description 485,4,2:00,5:03,0793519977,3:03
+Red Hot Chili Peppers,1:01,141,4:01,total:5,1,7,Hal Leonard Publishing Corporation,0,2005,,Hal Leonard Publishing Company,Fntasy,Sample Description 486,4,2:00,5:03,0634096486,3:00
+Mel Bays Guitar Chords,1:00,48,4:02,total:20,1,1,,2,1993,,Mel Bay,Biography,Sample Description 487,4.5,2:00,5:14,0871660903,3:04
+"The Ultimate Guitar Chord Big Book: Over 100,000 Chords!",1:00,404,4:00,total:0,1,1,Alfred Music,0,1998,,Don Latarski,Self-Help,Sample Description 488,0,2:00,5:00,0769232752,3:00
+"Complete Book of Guitar Chords, Scales, and Arpeggios",1:01,294,4:03,total:16,1,9,"Mel Bay Publications, Inc.",2,1992,,William Bay,History,Sample Description 489,3.94,2:00,5:07,156222526X,3:05
+Mel Bay's Guide to Guitar Chord Progression,1:00,56,4:00,total:0,2,12,"Mel Bay Publications, Inc.",0,1998,,Mike Christiansen,Science,Sample Description 490,0,2:00,5:00,0786635282,3:00
+Mel Bay's Deluxe Encyclopedia of Guitar Chords,1:00,144,4:06,total:17,1,4,"Mel Bay Publications, Inc.",2,1971,,William Bay,Fntasy,Sample Description 491,4.53,2:00,5:10,0871666642,3:01
+Jazz Guitar Chord System: Private Lessons Series,1:00,16,4:01,total:4,1,1,Musicians Institute,0,1999,,Scott Henderson,Biography,Sample Description 492,4.75,2:00,5:03,0793591651,3:00
+The First Stage Guitar Chord Chart: Learn How to Play the Most Commonly Played Guitar Chords!,1:01,8,4:05,total:20,1,1,First Stage Concepts,0,2006,,Chris Lopez,Self-Help,Sample Description 493,3.2,2:01,5:01,0966771915,3:12
+Jazz Guitar Chord Workout,1:00,23,4:00,total:0,1,7,Mel Bay Publications,0,2004,,Corey Christiansen,History,Sample Description 494,0,2:00,5:00,0786671513,3:00
+The Beatles Guitar Chord Songbook: A-I (Guitar Chord Songbooks),1:00,232,4:01,total:8,1,1,Hal Leonard,0,2003,,The Beatles,Science,Sample Description 495,4.25,2:01,5:05,0634053396,3:01
+The Compact Rock Guitar Chord Reference,1:00,48,4:00,total:0,1,12,Amsco Music,0,1999,,Len Vogler,Fntasy,Sample Description 496,0,2:00,5:00,0825613876,3:00
+The Guitar Three-Chord Songbook: Play 50 Rock Hits with Only 3 Easy Chords,1:00,98,4:02,total:8,1,8,Hal Leonard Publishing Corporation,0,2002,,Songbook,Biography,Sample Description 497,3.88,2:01,5:03,0634049941,3:02
+The Advanced Guitar Case Chord Book: Compact Reference Library,1:00,68,4:01,total:3,1,10,Music Sales,0,1992,,Askold Buk,Self-Help,Sample Description 498,3.33,2:00,5:00,0825612438,3:02
+Guitar Chord Guru: The Chord Book - Your Guide for Success!,1:00,112,4:06,total:16,1,2,Creative Concepts,1,2000,,Karl Aranjo,History,Sample Description 499,4.25,2:00,5:07,1569221596,3:03
+Children's Songs: Guitar Chord Songbook,1:00,148,4:01,total:2,1,9,Hal Leonard Publishing Corporation,0,2002,,Hal Leonard Publishing Company,Science,Sample Description 500,4.5,2:00,5:01,0634050605,3:00
+Guitar Chord Songbook: Classic Rock,1:00,237,4:02,total:4,1,8,Hal Leonard Publishing Corporation,0,2005,,Hal Leonard Publishing Company,Fntasy,Sample Description 501,4,2:00,5:01,0634060651,3:01
+The Guitar Chord Deck,1:00,45,4:00,total:2,1,12,Music Sales,0,1999,,Ed Lozano,Biography,Sample Description 502,5,2:00,5:02,0825617545,3:00
+Guitar Picture Chords in Color,1:00,56,4:00,total:3,1,8,Music Sales,0,2001,,Ed Lozano,Self-Help,Sample Description 503,5,2:00,5:03,0825618932,3:00
+Collected Stories,0.083333333,352,2.061805556,total:7433,13,5,Harper Perennial Modern Classics,182,2008,eng,Gabriel García Márquez,History,Sample Description 504,4.19,0.235416667,2.45625,0060932686,0.95
+Crónica de una muerte anunciada,0.916666667,118,4:46431,total:113971,14,10,Vintage Espanol,435,2003,spa,Gabriel García Márquez,Science,Sample Description 505,3.9699999999999998,3.834722222,5:36126,1400034957,3:24752
+Del amor y otros demonios,0.397916667,176,4:21356,total:52900,7,2,Plaza y Janes,289,2006,spa,Gabriel García Márquez,Fntasy,Sample Description 506,3.98,1.66875,5:16913,0307350444,3:11835
+Living to Tell the Tale,0.138194444,533,2.513888889,total:9095,12,10,Vintage,47,2004,eng,Gabriel García Márquez,Biography,Sample Description 507,3.99,0.427777778,2.441666667,140003454X,1.419444444
+Memoria de mis putas tristes,1.243055556,112,4:23390,total:65177,19,10,Vintage Espanol,387,2004,spa,Gabriel García Márquez,Self-Help,Sample Description 508,3.6,4.369444444,5:12590,1400095808,3:21295
+Gabriel Garcia Marquez,1:00,176,4:05,total:10,1,12,MacMillan Publishing Company,0,1984,,Raymond L. Williams,History,Sample Description 509,3.8,2:01,5:02,0805765972,3:02
+The Presence of Hemingway in the Short Fiction of Gabriel Garcia Marquez,1:00,50,4:02,total:4,31,12,York Press,0,1994,,Harley D. Oberhelman,Science,Sample Description 510,3.5,2:00,5:00,091996690X,3:02
+"The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory",1.384722222,425,4:31228,total:83528,2,9,Vintage Books USA,1055,2004,eng,Brian Greene,Fntasy,Sample Description 511,4.07,2.402777778,5:32692,0375708111,3:14334
+Science and Sensibility: The Elegant Logic of the Universe,1:00,233,4:04,total:15,30,7,Prometheus Books,1,2004,,Keith J. Laidler,Biography,Sample Description 512,3.6,2:03,5:04,1591021383,3:04
+Buddhism Pure and Simple,1:01,140,4:13,total:31,1,5,Weatherhill,1,2001,,Hsing Yun,Self-Help,Sample Description 513,4.26,2:00,5:14,0834804824,3:03
+Pure and Simple: The Extraordinary Teachings of a Thai Buddhist Laywoman,1:00,288,4:20,total:52,15,5,Wisdom Publications,6,2005,eng,Upasika Kee Nanayon,History,Sample Description 514,4.27,2:00,5:23,086171492X,3:09
+Buddhism Plain and Simple,0.088888889,176,1.884722222,total:6760,29,12,Harmony,377,1998,,Steve Hagen,Science,Sample Description 515,4.08,0.280555556,2.038194444,0767903323,1.027083333
+Buddhism Is Not What You Think: Finding Freedom Beyond Beliefs,1:13,272,0.415972222,total:1015,29,9,HarperOne,65,2009,,Steve Hagen,Fntasy,Sample Description 516,4.09,2:45,0.490972222,0060730579,0.257638889
+The Path to Buddha: A Tibetan Pilgrimage,1:00,144,4:16,total:37,18,11,Phaidon Press,2,2003,,Steve McCurry,Biography,Sample Description 517,4.19,2:00,5:14,0714843466,3:07
+The Shaolin Way: 10 Modern Secrets of Survival from a Shaolin Grandmaster,1:03,272,4:17,total:53,2,8,HarperEntertainment,11,2005,,Steve DeMasco,Self-Help,Sample Description 518,3.26,2:09,5:06,0060574569,3:18
+"Meditation, Compassion & Lovingkindness: An Approach to Vipassana Practice",1:00,211,4:01,total:3,1,1,Weiser Books,1,1996,,Steve Weissman,History,Sample Description 519,3.33,2:00,5:00,0877288526,3:02
+Now Zen,1:02,83,4:11,total:31,1,1,HarperOne,2,1995,,Charlotte Joko Beck,Science,Sample Description 520,4.06,2:00,5:13,0062511734,3:05
+The Rough Guide to London,1:01,633,4:47,total:108,3,11,Rough Guides,0,2003,,Rob Humphreys,Fntasy,Sample Description 521,4.02,2:03,5:34,1843530937,3:23
+The Mini Rough Guide to London,1:00,363,4:05,total:8,1,4,Rough Guides,0,2006,eng,Rob Humphreys,Biography,Sample Description 522,3.75,2:01,5:01,184353584X,3:01
+The Rough Guide to London Restaurants 2004 6,1:01,544,4:47,total:108,17,11,Rough Guides,0,2003,,Charles Campion,Self-Help,Sample Description 523,4.02,2:03,5:34,184353097X,3:23
+The Rough Guide to Walks in London and Southeast England,1:00,288,4:05,total:13,17,11,Rough Guides,1,2003,,Helena Smith,History,Sample Description 524,4.15,2:00,5:05,1858289386,3:03
+Rough Guide Directions: London,1:00,176,4:02,total:5,27,5,Rough Guides Limited,3,2004,,Rob Humphreys,Science,Sample Description 525,3.8,2:00,5:01,1843533162,3:02
+London: City Guide (Lonely Planet City Guide),1:06,466,0.385416667,total:718,1,1,,4,2006,eng,Lonely Planet,Fntasy,Sample Description 526,4.03,2:17,0.366666667,1740598318,0.230555556
+Best of London (Lonely Planet Best Of),1:00,128,4:12,total:31,1,9,Lonely Planet,0,2004,eng,Lonely Planet,Biography,Sample Description 527,3.87,2:05,5:10,1740594770,3:04
+London,1:06,400,0.385416667,total:718,1,3,,0,2002,eng,Lonely Planet,Self-Help,Sample Description 528,4.03,2:17,0.366666667,186450353X,0.230555556
+Lonely Planet Londres,1:06,480,0.385416667,total:718,1,5,Geoplaneta,0,2006,spa,Lonely Planet,History,Sample Description 529,4.03,2:17,0.366666667,8408064762,0.230555556
+Out to Eat London 2001 (Lonely Planet),1:00,320,4:00,total:1,1,9,Lonely Planet,0,2000,,Lonely Planet,Science,Sample Description 530,3,2:00,5:00,1864500832,3:01
+Out to Eat London 2002 (Lonely Planet Out to Eat),1:00,295,4:00,total:1,1,9,Lonely Planet,0,2001,eng,Lonely Planet,Fntasy,Sample Description 531,3,2:00,5:00,1740592050,3:01
+Lo mejor de Londres (Lonely Planet Best Of),1:00,128,4:12,total:31,1,5,Lonely Planet,0,2005,,Lonely Planet,Biography,Sample Description 532,3.87,2:05,5:10,8408056131,3:04
+"Thai Massage Manual: Natural Therapy for Flexibility, Relaxation, and Energy Balance",1:00,144,4:10,total:21,1,8,Sterling,3,2005,,Maria Mercati,Self-Help,Sample Description 533,4.05,2:00,5:06,1402728514,3:05
+Encyclopedia of Thai Massage,1:00,255,4:23,total:77,1,10,Findhorn Press,3,2004,,C. Pierce Salguero,History,Sample Description 534,4.25,2:01,5:37,1844090299,3:16
+Thai Massage: Sacred Body Work,1:00,288,4:11,total:26,5,1,Avery,3,2004,,Ananda  Apfelbaum,Science,Sample Description 535,4.31,2:01,5:12,1583331689,3:02
+Thai Yoga Massage: A Dynamic Therapy for Physical Well-Being and Spiritual Energy,1:00,160,4:17,total:35,9,3,Healing Arts Press,0,2004,,Kam Thye Chow,Fntasy,Sample Description 536,3.89,2:02,5:08,0892811463,3:08
+Thai Massage,1:00,128,4:02,total:8,8,2,Lorenz Books,0,2005,,Nicky  Smith,Biography,Sample Description 537,3.62,2:01,5:02,0754814742,3:03
+Nuad Thai: Traditional Thai Massage,1:00,112,4:00,total:3,15,11,Healing Tao Books,0,2005,,Max Chia,Self-Help,Sample Description 538,3.67,2:00,5:01,0935621032,3:02
+Thai Massage: A Traditional Medical Technique,1:00,240,4:05,total:14,1,10,Mosby,1,2006,,Richard Gold,History,Sample Description 539,4.07,2:00,5:05,0323041388,3:04
+"Three Nights in August: Strategy, Heartbreak, and Joy Inside the Mind of a Manager",0.210416667,287,1.953472222,total:7380,4,4,Mariner Books,238,2006,eng,H.G. Bissinger,Science,Sample Description 540,3.88,0.397222222,1.901388889,0618710531,1.2875
+Cryptonomicon,1.080555556,1139,4:30796,total:95487,1,11,Avon,4272,2002,eng,Neal Stephenson,Fntasy,Sample Description 541,4.25,2.519444444,5:47364,0060512806,3:12323
+"Le Code Enigma (Cryptonomicon, #1)",1:19,546,0.345138889,total:736,14,11,Le Livre de Poche,0,2001,fre,Neal Stephenson,Biography,Sample Description 542,4.04,2:39,0.410416667,,0.215277778
+"Le Réseau Kinakuta (Cryptonomicon, #2)",1:05,418,0.288194444,total:474,31,3,Payot,0,2001,fre,Neal Stephenson,Self-Help,Sample Description 543,4.11,2:17,0.338888889,2228894168,0.186805556
+"The Confusion (The Baroque Cycle, #2)",0.150694444,815,5.598611111,total:21761,14,6,William Morrow Paperbacks,569,2005,en-US,Neal Stephenson,History,Sample Description 544,4.26,0.525,5:10256,0060733357,2.131944444
+"Quicksilver (The Baroque Cycle, #1)",0.803472222,927,4:12076,total:34917,21,9,HarperCollins Perennial,1744,2004,eng,Neal Stephenson,Science,Sample Description 545,3.93,1.856944444,5:12590,0060593083,4.708333333
+The Cobweb,1:21,448,0.995138889,total:2913,31,5,Spectra Books,137,2005,eng,Neal Stephenson,Fntasy,Sample Description 546,3.61,0.224305556,0.499305556,0553383442,0.872916667
+The Big U,0.158333333,308,1.105555556,total:4882,6,2,William Morrow Paperbacks,224,2001,en-US,Neal Stephenson,Biography,Sample Description 547,3.26,0.634722222,0.563888889,0380816032,1.552777778
+"The Diamond Age: Or, A Young Lady's Illustrated Primer",0.580555556,499,4:28073,total:78193,2,5,Spectra,2785,2000,eng,Neal Stephenson,Self-Help,Sample Description 548,4.19,1.972222222,5:34568,0553380966,3:12056
+Interface,1:57,640,1.665972222,total:5387,31,5,Spectra,272,2005,eng,Neal Stephenson,History,Sample Description 549,3.68,0.329166667,0.899305556,0553383434,1.390277778
+"Odalisque (The Baroque Cycle, Vol. 1, Book 3)",1:08,464,0.59375,total:1684,28,3,HarperTorch,67,2006,en-US,Neal Stephenson,Science,Sample Description 550,4.2,2:58,0.720833333,0060833181,0.309027778
+Snow Crash,6.095138889,438,4:74135,total:225673,2,8,Bantam Books,6621,2000,eng,Neal Stephenson,Fntasy,Sample Description 551,4.03,2:12229,5:94251,0553380958,3:36341
+"Harrington on Hold 'em: Expert Strategy for No-Limit Tournaments, Volume II: The Endgame",1:47,450,0.552777778,total:1570,1,6,Two Plus Two Publishing LLC,30,2005,eng,Dan Harrington,Biography,Sample Description 552,4.16,2:42,0.695138889,1880685353,0.280555556
+"Harrington on Hold 'em: Expert Strategy for No-Limit Tournaments, Volume I: Strategic Play",1:08,381,0.706944444,total:2113,1,12,Two Plus Two Publishing LLC,73,2004,eng,Dan Harrington,Self-Help,Sample Description 553,4.24,2:33,0.8625,1880685337,0.369444444
+The Good Eye,1:00,352,4:00,total:0,26,6,Lulu.com,0,2006,,Dan    Harrington,History,Sample Description 554,0,2:00,5:00,1847280420,3:00
+Angelfish,1:00,212,4:00,total:1,24,6,Lulu.com,0,2006,,Dan    Harrington,Science,Sample Description 555,5,2:00,5:01,1847280587,3:00
+The Design of Everyday Things,0.205555556,240,6.917361111,total:25607,19,9,Basic Books,1429,2002,eng,Donald A. Norman,Fntasy,Sample Description 556,4.17,0.7,5:10791,0465067107,2.882638889
+Emotional Design: Why We Love (or Hate) Everyday Things,0.086111111,272,1.245138889,total:4118,11,5,Basic Books,154,2005,eng,Donald A. Norman,Biography,Sample Description 557,3.95,0.228472222,1.143055556,0465051367,0.781944444
+The Psychology of Everyday Things,0.205555556,257,6.917361111,total:25607,13,6,Basic Books,31,1988,eng,Donald A. Norman,Self-Help,Sample Description 558,4.17,0.7,5:10791,0465067093,2.882638889
+Doing Things with Things: The Design and Use of Everyday Objects,1:00,256,4:01,total:5,28,9,Routledge,0,2006,,Alan Costall,History,Sample Description 559,2.6,2:03,5:00,0754646564,3:01
+Wire,1:00,148,4:00,total:2,1,10,Abbeville Press,0,1994,,D. Rozensztroch,Science,Sample Description 560,4,2:00,5:01,1558597921,3:01
+Wild Things: The Material Culture of Everyday Life,1:00,334,4:05,total:14,1,12,Bloomsbury Academic,1,2000,,Judith Attfield,Fntasy,Sample Description 561,3.64,2:00,5:02,1859733697,3:07
+No Price Too High: A Pentecostal Preacher Becomes Catholic - The Inspirational Story of Alex Jones as Told to Diane Hanson,1:00,259,4:33,total:90,30,4,Ignatius Press,7,2006,en-GB,Alex C. Jones,Biography,Sample Description 562,4.27,2:03,5:42,0898709199,3:12
+Creative Thought Remedies,1:01,156,4:01,total:3,1,6,DeVorss & Company,0,1986,,Alex Jones,Self-Help,Sample Description 563,3.33,2:00,5:01,0875165664,3:00
+Noise,1:00,84,4:00,total:0,1,1,Nick Hern Books,0,1998,,Alex Jones,History,Sample Description 564,0,2:00,5:00,1854593536,3:00
+Seven Mansions of Color,1:01,160,4:03,total:10,1,3,DeVorss & Company,0,1983,,Alex Jones,Science,Sample Description 565,3.9,2:00,5:04,0875165001,3:02
+Fields of Gold,1:00,96,4:00,total:0,1,9,Oberon Books,0,2005,,Alex Jones,Fntasy,Sample Description 566,0,2:00,5:00,184002528X,3:00
+The Trust: The Private and Powerful Family Behind The New York Times,1:02,928,0.214583333,total:154,20,9,Back Bay Books,3,2000,,Susan E. Tifft,Biography,Sample Description 567,3.9699999999999998,2:05,5:45,0316836311,3:33
+CSS Cookbook,1:01,252,0.221527778,total:220,18,8,O'Reilly Media,1,2004,,Christopher Schmitt,Self-Help,Sample Description 568,3.89,2:12,0.253472222,0596005768,0.16875
+How to Build a Real Estate Empire: Wisdom from the Best in the Business,1:02,255,4:03,total:25,15,9,Foundations of Wealth Pub Co,1,2005,,John  Hamilton,History,Sample Description 569,3.52,2:02,5:08,0977073300,3:10
+The Alchemist,1:96579,192,4:570065,total:1955183,2,5,HarperOne,76,2006,eng,Paulo Coelho,Science,Sample Description 570,3.87,2:161603,5:739717,0060887966,3:387219
+"Fullmetal Alchemist, Vol. 9 (Fullmetal Alchemist, #9)",1:21,192,1.802777778,total:9398,19,9,VIZ Media LLC,156,2006,eng,Hiromu Arakawa,Fntasy,Sample Description 571,4.58,0.130555556,4.568055556,142150460X,0.59375
+"Fullmetal Alchemist, Vol. 3 (Fullmetal Alchemist, #3)",0.088194444,192,3.144444444,total:17487,13,9,VIZ Media LLC,304,2005,eng,Hiromu Arakawa,Biography,Sample Description 572,4.5600000000000005,0.202083333,5:11638,1591169259,1.04375
+"Fullmetal Alchemist, Vol. 8 (Fullmetal Alchemist, #8)",1:58,192,2.132638889,total:11979,18,7,VIZ Media LLC,159,2006,eng,Hiromu Arakawa,Self-Help,Sample Description 573,4.57,0.16875,5.827777778,1421504596,0.732638889
+"Fullmetal Alchemist, Vol. 1 (Fullmetal Alchemist, #1)",0.936111111,192,4:25561,total:114169,3,5,VIZ Media LLC,1447,2005,eng,Hiromu Arakawa,History,Sample Description 574,4.5,1.55625,5:75128,1591169208,3:10071
+"Fullmetal Alchemist, Vol. 4 (Fullmetal Alchemist, #4)",1:17,200,2.252083333,total:11426,8,11,VIZ Media LLC,296,2005,eng,Hiromu Arakawa,Science,Sample Description 575,4.55,0.150694444,5.377777778,1591169291,0.725694444
+The Illustrated Alchemist: A Fable about Following Your Dream,1:96579,198,4:570065,total:1955183,1,11,HarperCollins Publishers,33,1998,en-US,Paulo Coelho,Fntasy,Sample Description 576,3.87,2:161603,5:739717,006019250X,3:387219
+"Fullmetal Alchemist, Vol. 2 (Fullmetal Alchemist, #2)",1:50,192,3.189583333,total:15766,5,7,VIZ Media LLC,430,2005,eng,Hiromu Arakawa,Biography,Sample Description 577,4.52,0.188888889,7.111111111,1591169232,1.007638889
+Bookclub in a Box Discusses Khaled Hosseini's Novel The Kite Runner,1:06,80,4:44,total:156,6,4,Bookclub-In-A-Box,1,2006,,Marilyn Herbert,Self-Help,Sample Description 578,4.18,2:08,0.263888889,1897082282,3:18
+Cambridge Wizard Student Guide the Kite Runner,1:00,79,4:00,total:9,21,3,Cambridge University Press,1,2006,,Sue  Sherman,History,Sample Description 579,3.7800000000000002,2:03,5:05,0521682347,3:01
+Pompeii,0.325,274,4:14080,total:33848,8,11,Random House Trade Paperbacks,1743,2005,eng,Robert   Harris,Science,Sample Description 580,3.8200000000000003,1.451388889,5.965972222,0812974611,6.44375
+Pompeii . . . Buried Alive!,0.086805556,48,0.68125,total:2490,12,10,Random House Books for Young Readers,58,1987,,Edith Kunhardt,Fntasy,Sample Description 581,3.98,0.173611111,0.890277778,0394888669,0.522222222
+"Pompeii: The History, Life and Art of the Buried City",1:00,416,4:10,total:46,7,9,White Star Publishers,9,2010,,Marisa Ranieri Panetta,Biography,Sample Description 582,4.57,2:00,5:31,8854400300,3:05
+Pompeii: Lost and Found,1:00,40,4:43,total:116,10,1,Knopf Books for Young Readers,13,2006,,Mary Pope Osborne,Self-Help,Sample Description 583,3.71,2:07,5:23,0375828893,3:43
+Pompeii: Monuments Past and Present,1:00,56,4:03,total:11,6,1,"Oxford University Press, USA",0,2000,,Alfonso De Franciscis,History,Sample Description 584,4.18,2:00,5:05,8881620758,3:03
+A.D. 62: Pompeii,1:10,304,0.210416667,total:208,7,2,iUniverse,32,2003,,Rebecca East,Science,Sample Description 585,3.36,2:28,5:30,059526882X,0.178472222
+Pompeii: Public and Private Life,1:03,253,4:25,total:71,15,1,Harvard University Press,5,1999,,Paul Zanker,Fntasy,Sample Description 586,3.42,2:07,5:09,0674689674,3:27
+The Last Days of Pompeii,1:49,360,0.598611111,total:1824,3,12,Borgo Press,68,2002,eng,Edward Bulwer-Lytton,Biography,Sample Description 587,3.6,0.209027778,0.467361111,158715739X,0.540972222
+Of Mice and Men,1:54005,103,4:651494,total:1857114,8,1,Penguin Books,25882,2002,eng,John Steinbeck,Self-Help,Sample Description 588,3.87,2:128601,5:601885,0142000671,3:421129
+Cliffsnotes on Steinbeck's of Mice and Men,1:06,80,4:11,total:46,7,12,Cliffs Notes,3,2000,,Susan Van Kirk,History,Sample Description 589,3.91,2:01,5:22,0764586769,3:06
+Of Mice and Men (SparkNotes Literature Guide),1:03,72,4:04,total:19,10,1,SparkNotes,1,2002,,SparkNotes,Science,Sample Description 590,3.89,2:01,5:10,,3:01
+The Game: Penetrating the Secret Society of Pickup Artists,0.720138889,464,6.225694444,total:24330,6,9,It Books,1607,2005,en-US,Neil Strauss,Fntasy,Sample Description 591,3.74,1.495138889,4.80625,0060554738,4.273611111
+The Westing Game,2.414583333,182,4:51590,total:153989,12,4,Puffin,8918,2004,eng,Ellen Raskin,Biography,Sample Description 592,4.02,5.956944444,5:60642,014240120X,3:29882
+The Egypt Game,0.672222222,215,4:11041,total:32241,7,7,Turtleback Books,1142,2009,eng,Zilpha Keatley Snyder,Self-Help,Sample Description 593,3.83,1.690277778,7.067361111,0808553038,5.750694444
+The Inner Game of Tennis: The Classic Guide to the Mental Side of Peak Performance,0.084722222,134,2.190972222,total:8226,27,5,Random House Trade Paperbacks,601,1997,,W. Timothy Gallwey,History,Sample Description 594,4.25,0.253472222,2.88125,0679778314,0.927083333
+"Jim Cramer's Mad Money: Watch TV, Get Rich",1:35,240,0.346527778,total:774,5,12,Simon  Schuster,57,2006,,James J. Cramer,Science,Sample Description 595,3.49,0.140972222,0.304166667,1416537902,0.304861111
+Trading with the Enemy: Seduction and Betrayal on Jim Cramer's Wall Street,1:03,208,4:29,total:87,1,3,HarperCollins Publishers,7,2002,,Nicholas W. Maier,Fntasy,Sample Description 596,3.75,2:04,5:23,0060086513,3:28
+The Forewarned Investor: Don't Get Fooled Again by Corporate Fraud,1:00,221,4:01,total:6,1,6,Career Press,0,2006,,Brett S. Messing,Biography,Sample Description 597,3.33,2:01,5:01,1564148815,3:03
+"A Lonely Resurrection (John Rain, #2)",0.092361111,352,2.705555556,total:8220,5,2,Barry Eisler,244,2013,eng,Barry Eisler,Self-Help,Sample Description 598,4.11,0.211111111,2.229166667,,1.095138889
+And a Hard Rain Fell,1:11,368,0.364583333,total:703,31,3,Sourcebooks,57,2004,,John Ketwig,History,Sample Description 599,4.13,2:21,0.399305556,157071987X,0.202083333
+Hard Rain,1:00,368,4:13,total:44,27,7,Vintage,0,1993,,Tim Riley,Science,Sample Description 600,3.45,2:07,5:07,0679745270,3:17
+"A Clean Kill in Tokyo (John Rain, #1)",0.254861111,363,4.552083333,total:15281,1,7,Barry Eisler,592,2002,eng,Barry Eisler,Fntasy,Sample Description 601,3.96,0.586111111,3.555555556,,2.288194444
+Memoirs of a Geisha,1:26143,503,4:596547,total:1658024,22,11,Vintage Books USA,3901,2005,eng,Arthur Golden,Biography,Sample Description 602,4.11,2:64958,5:682314,1400096898,3:288062
+Memoirs of a Geisha: A Portrait of the Film,1:04,144,4:49,total:147,20,10,Newmarket Press,8,2005,eng,David        James,Self-Help,Sample Description 603,4.1,2:06,0.252083333,1557046832,3:25
+Geisha of Gion,0.188888889,334,5.115972222,total:18324,6,5,Pocket Books,160,2003,eng,Mineko Iwasaki,History,Sample Description 604,3.93,0.734027778,4.13125,074343059X,3.179861111
+Memoirs Of A Geisha,1:26143,3,4:596547,total:1658024,3,1,,5,2006,eng,Arthur Golden,Science,Sample Description 605,4.11,2:64958,5:682314,0007229577,3:288062
+How to Make Anyone Fall in Love with You,0.093055556,336,0.364583333,total:1089,22,9,McGraw-Hill Education,72,1997,,Leil Lowndes,Fntasy,Sample Description 606,3.58,0.171527778,0.424305556,0809229897,0.327777778
+How To Get Laid: The Rules On How To Succeed With Women And How To Make Anyone Fall In Love With You,1:01,222,4:00,total:2,30,6,The David Olson Company,0,2000,,Michael James,Biography,Sample Description 607,3,2:00,5:01,0971320500,3:00
+Love As A Foreign Language #5,1:00,58,4:03,total:9,1,2,Oni Press,2,2006,eng,J. Torres,Self-Help,Sample Description 608,3.44,2:01,5:01,1932664394,3:04
+Marriage Special Package- 2 books- Five Love Languages/Fight Fair,1:00,400,4:13,total:40,1,8,Moody Publishers,10,2003,,Gary Chapman,History,Sample Description 609,4.3,2:01,5:20,0802415075,3:06
+Jungle Love,1:08,95,4:12,total:65,1,8,Cambridge University Press,7,2002,eng,Margaret Johnson,Science,Sample Description 610,3.45,2:05,5:19,0521750849,3:21
+Building Literacy with Love: A Guide for Teachers and Caregivers of Children Birth Through Age 5,1:01,366,4:06,total:15,30,11,Zero to Three,1,2004,,betty S. Bardige,Fntasy,Sample Description 611,3.6,2:01,5:03,0943657822,3:04
+The Five Love Languages: Men's Edition: How to Express Heartfelt Commitment to Your Mate,1:25,202,0.660416667,total:2057,1,5,Northfield Press,95,2004,,Gary Chapman,Biography,Sample Description 612,4.27,2:51,0.906944444,1881273105,0.308333333
+The Five Love Languages of Children,0.145833333,224,4.530555556,total:17438,1,6,Moody Publishers,1244,1997,,Gary Chapman,Self-Help,Sample Description 613,4.2,0.420833333,5.563888889,1881273652,2.073611111
+"Cinco Lenguajes del Amor Para Solteros, Los: Five Love Languages for Singles",0.098611111,235,2.122222222,total:8132,1,3,Editorial Unilit,2,2006,,Gary Chapman,History,Sample Description 614,4.17,0.29375,2.709722222,0789912910,1.047916667
+The Five Love Languages of Teenagers,1:40,272,0.78125,total:2430,1,1,Northfield Publishing,14,2001,,Gary Chapman,Science,Sample Description 615,4.12,0.150694444,0.907638889,1881273393,0.403472222
+The 5 Love Languages / The 5 Love Languages Journal,1:00,0,4:07,total:29,1,1,Moody Publishers,4,2005,eng,Gary Chapman,Fntasy,Sample Description 616,4.69,2:00,5:21,0802415318,3:01
+Five Love Languages Journal: How To Express Heartfelt Commitment To Your Mate,1:00,144,4:04,total:11,1,1,Northfield Publishing,2,2005,,Gary Chapman,Biography,Sample Description 617,4.18,2:01,5:05,1881273717,3:01
+Los Cinco Lenguajes Del Amor/the Five Languages of Love,2.771527778,196,4:86423,total:273142,6,5,Editorial Unilit,5,2004,,Gary Chapman,Self-Help,Sample Description 618,4.25,6.063194444,5:135769,0789912864,3:38408
+"Angels & Demons (Robert Langdon, #1)",1:91925,736,4:875274,total:2559156,1,4,Pocket Books,21462,2006,eng,Dan Brown,History,Sample Description 619,3.9,2:167777,5:884154,1416524797,3:540026
+Angels and Demons: What Do We Really Know About Them?,1:06,157,0.267361111,total:431,1,12,Ignatius Press,22,1995,,Peter Kreeft,Science,Sample Description 620,4.05,2:25,0.328472222,0898705509,0.181944444
+"Angels, Demons & Gods of the New Millenium: Musings on Modern Magick",1:03,192,4:54,total:180,1,9,Weiser Books,2,1997,,Lon Milo DuQuette,Fntasy,Sample Description 621,4.09,2:09,0.263194444,157863010X,3:35
+Angels and Demons in Art,1:00,384,4:33,total:90,1,11,J. Paul Getty Museum,7,2005,,Rosa Giorgi,Biography,Sample Description 622,4.11,2:03,5:35,0892368306,3:19
+Secrets of Angels and Demons,1:08,384,4:45,total:164,14,3,Da Capo Press,0,2006,,Dan Burstein,Self-Help,Sample Description 623,3.46,2:20,5:33,1593153589,3:58
+"Ángeles y demonios (Robert Langdon, #1)",1:91925,508,4:875274,total:2559156,1,12,Umbriel,20,2005,spa,Dan Brown,History,Sample Description 624,3.9,2:167777,5:884154,849561877X,3:540026
+Angeles & Demonios,1:91925,18,4:875274,total:2559156,1,12,FonoLibro,7,2005,spa,Dan Brown,Science,Sample Description 625,3.9,2:167777,5:884154,0972859896,3:540026
+"Angel Customers & Demon Customers: Discover Which is Which, and Turbo-Charge Your Stock",1:02,256,4:04,total:24,2,6,Portfolio,3,2003,,Larry Selden,Fntasy,Sample Description 626,3.42,2:02,5:06,1591840074,3:10
+"The Da Vinci Code (Robert Langdon, #2)",1:76836,489,4:638116,total:1843585,28,3,Anchor,36086,2006,eng,Dan Brown,Biography,Sample Description 627,3.84,2:138044,5:605134,0307277674,3:385455
+The Da Vinci Code,1:76836,467,4:638116,total:1843585,28,3,Broadway Books,105,2006,eng,Dan Brown,Self-Help,Sample Description 628,3.84,2:138044,5:605134,076792603X,3:385455
+Fodor's Guide to The Da Vinci Code: On the Trail of the Bestselling Novel,1:02,256,4:17,total:41,14,11,Fodor's,8,2006,,Jennifer Paull,History,Sample Description 629,3.59,2:05,5:08,140001672X,3:09
+"Da Vinci Code (Robert Langdon, #2)",1:76836,744,4:638116,total:1843585,3,5,Pocket,16,2005,fre,Dan Brown,Science,Sample Description 630,3.84,2:138044,5:605134,2266144340,3:385455
+"Who Can Crack the Leonardo Da Vinci Code? (Museum of Adventures, #1)",1:02,112,4:10,total:39,1,4,Prestel Publishing,0,2005,,Thomas C. Brezina,Fntasy,Sample Description 631,3.54,2:05,5:10,3791333224,3:12
+The Da Vinci Code: Fact or Fiction?,1:08,96,4:48,total:157,1,5,Tyndale House Publishers,12,2004,,Hank Hanegraaff,Biography,Sample Description 632,3.68,2:17,5:46,1414302797,3:38
+Deception Point,1:16286,736,4:193208,total:571784,1,4,Pocket Books,411,2006,eng,Dan Brown,Self-Help,Sample Description 633,3.71,2:49831,5:147938,1416524800,3:164521
+"Point Deception (Cape Perdido, #1)",1:05,368,0.379861111,total:745,1,5,Grand Central Publishing,37,2002,,Marcia Muller,History,Sample Description 634,3.7,2:38,0.298611111,0446611360,0.309027778
+A Killing Rain: The Global Threat of Acid Precipitation,1:00,206,4:00,total:2,12,9,"Random House, Inc.",0,1984,,Thomas F. Pawlick,Science,Sample Description 635,4,2:00,5:01,0871568233,3:01
+"A Killing Rain (Louis Kincaid, #6)",1:07,383,0.352083333,total:602,1,2,Pinnacle,41,2005,eng,P.J. Parrish,Fntasy,Sample Description 636,4.04,2:14,0.343055556,078601606X,0.208333333
+"Winner Take All (John Rain, #3)",0.115277778,384,2.459722222,total:7677,28,6,Barry Eisler,154,2004,en-GB,Barry Eisler,Biography,Sample Description 637,4.14,0.216666667,2.235416667,,0.929166667
+A Storm Without Rain: A Novel in Time,1:00,179,4:10,total:32,1,11,Wooden Boat Publications,10,2004,,Jan Adkins,Self-Help,Sample Description 638,4.09,2:01,5:13,0937822809,3:08
+"Eye of the Storm (Hudson, #3)",0.09375,368,0.9125,total:3930,4,2,,5,2002,eng,V.C. Andrews,History,Sample Description 639,3.8200000000000003,0.319444444,1.13125,0743409159,0.897222222
+Storm in a Rain Barrel,1:05,262,4:24,total:94,31,12,John Curley & Associates,0,1991,,Anne Mather,Science,Sample Description 640,3.23,2:20,5:14,0792706056,3:31
+What Every Investor Needs to Know about Accounting Fraud,1:01,176,4:03,total:15,2,12,McGraw-Hill Companies,2,2003,,Jeff Madura,Fntasy,Sample Description 641,3.27,2:03,5:03,0071422765,3:05
+What Every Fidelity Investor Needs to Know,1:00,338,4:00,total:7,1,11,Wiley,1,2006,,James Lowell,Biography,Sample Description 642,3.86,2:00,5:03,0470036273,3:04
+The Real Estate Investor's Tax Guide,1:00,289,4:00,total:1,1,12,Kaplan Publishing,0,1995,,Vernon Hoven,Self-Help,Sample Description 643,5,2:00,5:01,0793114772,3:00
+The Millionaire Next Door: The Surprising Secrets of America's Wealthy,0.768055556,258,4:24457,total:69771,1,10,Gallery Books,2662,1998,eng,Thomas J. Stanley,History,Sample Description 644,4.03,2.393055556,5:26530,0671015206,3:14412
+Millionaire Women Next Door: The Many Journeys of Successful American Businesswomen,1:12,320,0.2875,total:635,1,5,Andrews McMeel Publishing,64,2004,,Thomas J. Stanley,Science,Sample Description 645,3.88,2:51,0.368055556,0740745328,0.241666667
