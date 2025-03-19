@@ -1,0 +1,12 @@
+huggingface_hub==0.25.2
+gradio
+requests
+python-dotenv
+pandas
+textblob
+pytrends
+pytumblr
+praw
+torch
+transformers
+accelerate
