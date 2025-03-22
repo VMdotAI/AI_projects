@@ -53,20 +53,25 @@ def get_fred_data(series_id):
         return "Error fetching economic data."
 
 # Function to fetch SEC filings (Regulatory Risk)
-def get_sec_filings(symbol):
-    url = f"https://sec-api.io/api/v1/company-filings?token={SEC_API_KEY}&ticker={symbol}&type=10-K"
-
+def get_sec_filings(cik):
+    url = f"https://data.sec.gov/submissions/CIK{cik}.json"
+    headers = {"User-Agent": "YourAppName/1.0 (yourname@example.com)"}
+    
     try:
-        response = requests.get(url)
-        if response.status_code != 200:
-            return ["SEC API Error. Try again later."]
-        
+        response = requests.get(url, headers=headers)
         data = response.json()
-        filings = data.get("filings", [])
+        
+        filings = data.get("filings", {}).get("recent", {})
         if not filings:
             return ["No recent filings found."]
-        return filings[:5]
-
+        
+        filing_list = []
+        for accession_number in filings["accessionNumber"][:5]:
+            filing_url = f"https://www.sec.gov/Archives/edgar/data/{cik}/{accession_number.replace('-', '')}/{accession_number}-index.htm"
+            filing_list.append({"accession_number": accession_number, "url": filing_url})
+        
+        return filing_list
+    
     except requests.exceptions.RequestException:
         return ["Error fetching SEC filings."]
     except requests.exceptions.JSONDecodeError:
@@ -106,12 +111,10 @@ if symbol:
     
     # Fetch and display SEC filings
     st.subheader("📜 SEC Filings (Regulatory Risk)")
-    filings = get_sec_filings(symbol)
+    cik = "0000320193"  # CIK for Apple Inc.
+    filings = get_sec_filings(cik)
     for filing in filings:
-        if isinstance(filing, dict):
-            st.write(f"📄 [{filing['title']}]({filing['link']}) - {filing['date']}")
-        else:
-            st.write(filing)
+        st.write(f"📄 [Filing: {filing['accession_number']}]({filing['url']})")
 
     # Plot Historical Risk Trend
     st.subheader("📊 Historical Risk Trends")
