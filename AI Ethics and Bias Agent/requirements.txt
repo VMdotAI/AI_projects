@@ -1,0 +1,8 @@
+streamlit
+numpy
+pandas
+requests
+matplotlib
+scikit-learn
+aif360
+joblib
